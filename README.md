@@ -10,3 +10,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)](https://josenilto.github.io/)
+
+<br>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto" alt="Visitors Counter">
