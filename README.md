@@ -10,3 +10,5 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="josenilto"><a class="LI-simple-link" href='https://br.linkedin.com/in/josenilto?trk=profile-badge'>Josenilto Luis</a></div>
