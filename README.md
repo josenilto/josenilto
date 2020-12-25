@@ -11,4 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="josenilto"><a class="LI-simple-link" href='https://br.linkedin.com/in/josenilto?trk=profile-badge'>Josenilto Luis</a></div>
+<p align=center>
+<br>
+  <a target="_blank" href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
