@@ -20,8 +20,6 @@
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)
-
 ## GitHub Pages - Curriculum | Josenilto Luis
 
 Formação Acadêmica 
