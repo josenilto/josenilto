@@ -9,9 +9,11 @@
   <br>
 </p>
 
-<p align=center>
+<center>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)
-</p>
+
+</center>
 
 <p align=center>
 <br>
