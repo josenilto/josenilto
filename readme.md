@@ -31,6 +31,6 @@ Formação Acadêmica
 
 Qualificação Profissional
 
-Tenho sólida experiência nas tratativas de solicitações a incidentes relacionadas à Infraestrutura, através de análises de complexidade e conclusão de atendimentos de acordo com a metodologia ITIL, virtualização de servidores, configurações, desenvolvimento e implementação sustentável, execução de micro serviços e backups. Vivência em planejamento e melhorias na infraestrutura de TI e desenvolvimento de sites, há mais de 06 anos.
+Por meio de análises de complexidade e conclusões de serviços baseadas na metodologia ITIL, virtualização de servidores, configuração, sustentabilidade e implementação, execução de microsserviços e backup, possuo ampla experiência em lidar com solicitações de incidentes relacionados à infraestrutura. Possui mais de 06 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites.
 
-Gerenciamento de processos, reestruturação de serviços, otimização de desempenho. 
+Gestão de processos, reorganização de serviços, otimização de desempenho.
