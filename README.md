@@ -1,4 +1,4 @@
-# BEM-VINDOS!
+# BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
 <p align=center>
   <br>
@@ -9,8 +9,4 @@
   <br>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)](https://josenilto.github.io/)
-
-<br>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto" alt="visitantes Counter">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto)
