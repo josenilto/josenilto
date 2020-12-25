@@ -13,4 +13,4 @@
 
 <br>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto" alt="Visitors Counter">
+<img src="https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto" alt="visitantes Counter">
