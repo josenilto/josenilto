@@ -1,5 +1,7 @@
 # JOSENILTO LUIS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto&layout=compact)](https://github.com/josenilto/github-readme-stats)
+
   <p align="center">
     <a href="">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
