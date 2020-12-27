@@ -44,3 +44,11 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 <br />
 
 [linkedin]: https://linkedin.com/in/josenilto
+
+[website]: https://usuporte.com.br
+[twitter]: https://twitter.com
+[youtube]: http://youtube.com
+[instagram]: https://instagram.com
+[linkedin]: https://linkedin.com/in/josenilto
+[jakartaeecookbook]: #
+[javachampions]: #
