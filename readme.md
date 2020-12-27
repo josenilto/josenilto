@@ -29,7 +29,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [<img align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="josenilto | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-![Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)[website]
+![Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)
 
 <br />
 
