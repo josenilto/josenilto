@@ -33,7 +33,7 @@ Por meio de análises de complexidade e conclusões de serviços baseadas na met
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
 
-### Connect with me:
+### Conecte-se comigo:
 
 [<img align="left" alt="eldermoraes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="eldermoraes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -42,8 +42,6 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [<img align="left" alt="eldermoraes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-[linkedin]: https://linkedin.com/in/josenilto
 
 [website]: https://usuporte.com.br
 [twitter]: https://twitter.com
