@@ -30,6 +30,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [<img align="left" alt="eldermoraes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="eldermoraes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="eldermoraes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="eldermoraes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="eldermoraes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="eldermoraes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -38,6 +39,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [website]: https://usuporte.com.br
 [twitter]: https://twitter.com
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
+[facebook]: https://www.facebook.com/josenilto
 [youtube]: http://youtube.com
 [instagram]: https://www.instagram.com/josenilto
 [linkedin]: https://linkedin.com/in/josenilto
