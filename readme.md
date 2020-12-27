@@ -32,3 +32,5 @@ Qualificação Profissional
 Por meio de análises de complexidade e conclusões de serviços baseadas na metodologia ITIL, virtualização de servidores, configuração, sustentabilidade e implementação, execução de microsserviços e backup, possuo ampla experiência em lidar com solicitações de incidentes relacionados à infraestrutura. Possui mais de 06 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites.
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
+
+[linkedin]: https://linkedin.com/in/josenilto
