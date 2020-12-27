@@ -26,7 +26,6 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 ### Conecte-se comigo:
 
-[<img align="left" alt="usuporte.com.br" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="josenilto | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -34,7 +33,6 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 <br />
 
-[website]: https://usuporte.com.br
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
 [linkedin]: https://linkedin.com/in/josenilto
 
