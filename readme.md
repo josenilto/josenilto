@@ -9,8 +9,6 @@
   <br>
 </p>
 
-[![Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https%3A%2F%2usuporte.com.br)][website]
-
 ----
 
 ### 📕 GitHub Pages - Curriculum | Josenilto Luis
@@ -31,6 +29,8 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [<img align="left" alt="eldermoraes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="eldermoraes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="eldermoraes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[![Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)][website]
 
 <br />
 
