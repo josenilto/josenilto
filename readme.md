@@ -52,3 +52,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [linkedin]: https://linkedin.com/in/josenilto
 [jakartaeecookbook]: #
 [javachampions]: #
+
+### ℹ️ GitHub Stats
+
+[![Josenilto' github stats](https://github-readme-stats.vercel.app/api?username=josenilto)]
