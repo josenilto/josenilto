@@ -40,11 +40,15 @@
 
 #### 👻 Referência Linguagens
 
+[<img title="HTML" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html]
+[<img title="CSS" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][css]
 [<img title="Java" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
 [<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
 
+[Html]: https://www.w3.org/2014/10/html5-rec.html.en
+[Css]: https://www.w3.org/Style/CSS20/
 [Java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [Python]: https://www.python.org/downloads
 [Php]: https://www.php.net/releases/index.php
