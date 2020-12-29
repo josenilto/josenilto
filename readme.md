@@ -13,12 +13,17 @@
 
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vagrant.svg" />][vagrant]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
+[<img title="Terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][terraform]
+[<img title="Docker" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
 
 [Vagrant]: https://www.vagrantup.com/downloads.html
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
+[Terraform]: https://www.terraform.io/downloads.html
+[Docker]: https://www.docker.com
 [Python]: https://www.python.org/downloads
 [Php]: https://www.php.net/releases/index.php
 
