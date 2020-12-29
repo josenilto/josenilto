@@ -11,6 +11,7 @@
 
 #### 👻 Referência
 
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />][windows]
 [<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linux]
 
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vagrant.svg" />][vagrant]
@@ -25,7 +26,9 @@
 [<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
 
+[Windows]: https://docs.microsoft.com/en-us/windows/release-information/
 [Linux]: https://wiki.ubuntu.com/Releases
+
 
 [Vagrant]: https://www.vagrantup.com/downloads.html
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
