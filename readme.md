@@ -9,6 +9,18 @@
   <br>
 </p>
 
+#### ➡️ Referência
+
+<div align="center">
+
+[<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
+[<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+
+[Ansible]: https://docs.ansible.com/ansible/latest/index.html 
+[Python]: http://www.yamllint.com 
+  
+</div>
+
 ----
 
 #### 📝 GitHub Pages - Curriculum | Josenilto Luis
