@@ -32,7 +32,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 </div>
 
-### Conecte-se comigo
+### 🤙 Conecte-se comigo
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
