@@ -25,8 +25,6 @@
 
 ----
 
-<br>
-
 #### 📝 GitHub Pages - Curriculum | Josenilto Luis
 
 Formação Acadêmica 
