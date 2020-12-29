@@ -34,7 +34,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 <br />
 
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
-[linkedin]: https://linkedin.com/in/josenilto
+[linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 
 ----
 
