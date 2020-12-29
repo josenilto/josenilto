@@ -20,6 +20,7 @@
 [<img title="Docker" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
+[<img title="sonarqube" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarqube.svg" />][sonarqube]
 
 [Vagrant]: https://www.vagrantup.com/downloads.html
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
@@ -27,6 +28,7 @@
 [Docker]: https://www.docker.com
 [Kubernetes]: https://kubernetes.io
 [Jenkins]: https://www.jenkins.io
+[sonarqube]: https://www.sonarqube.org/downloads
 <br>
 
 #### 👻 Referência Serviços
