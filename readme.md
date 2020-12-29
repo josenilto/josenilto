@@ -9,11 +9,9 @@
   <br>
 </p>
 
-#### ➡️ Referência
+#### 👻 Referência
 
 <div align="center">
-
-<br>
   
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
@@ -26,6 +24,8 @@
 </div>
 
 ----
+
+<br>
 
 #### 📝 GitHub Pages - Curriculum | Josenilto Luis
 
