@@ -15,6 +15,7 @@
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
 [<img title="Terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][terraform]
 [<img title="Docker" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+[<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
@@ -24,6 +25,8 @@
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
 [Terraform]: https://www.terraform.io/downloads.html
 [Docker]: https://www.docker.com
+[Kubernetes]: https://kubernetes.io
+
 [Python]: https://www.python.org/downloads
 [Php]: https://www.php.net/releases/index.php
 
