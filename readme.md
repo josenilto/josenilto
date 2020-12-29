@@ -21,22 +21,12 @@
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 
-[<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
-
-[<img title="Drupal" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
-[<img title="WordPress" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-
 [Vagrant]: https://www.vagrantup.com/downloads.html
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
 [Terraform]: https://www.terraform.io/downloads.html
 [Docker]: https://www.docker.com
 [Kubernetes]: https://kubernetes.io
 [Jenkins]: https://www.jenkins.io
-
-[Laravel]: https://laravel.com/docs/5.5/releases
-
-[Drupal]: https://www.drupal.org/project/drupal/releases
-[WordPress]: https://wordpress.org/download/releases
 <br>
 
 #### 👻 Referência Serviços
@@ -70,6 +60,18 @@
 [MySQL]: https://dev.mysql.com/doc/relnotes
 [PostgreSQL]: https://www.postgresql.org/docs/release
 <br>
+
+#### 👻 Referência Outros
+
+[<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
+[<img title="Drupal" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
+[<img title="WordPress" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+
+[Laravel]: https://laravel.com/docs/5.5/releases
+[Drupal]: https://www.drupal.org/project/drupal/releases
+[WordPress]: https://wordpress.org/download/releases
+<br>
+
 ----
 
 #### 📝 GitHub Pages - Curriculum | Josenilto Luis
