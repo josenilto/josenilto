@@ -2,10 +2,17 @@
 
 
 
-#### 👻 Referência
+#### 👻 Referência SO
   
 [<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />][windows]
 [<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linux]
+
+[Windows]: https://docs.microsoft.com/en-us/windows/release-information
+[Linux]: https://wiki.ubuntu.com/Releases
+
+<br>
+
+#### 👻 Referência Ferramentas
 
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vagrant.svg" />][vagrant]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
@@ -20,20 +27,10 @@
 [<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 [<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgresql]
 
-[<img title="Java" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
-[<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
-
-[<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
-
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
 
 [<img title="Drupal" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
 [<img title="WordPress" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-
-[Windows]: https://docs.microsoft.com/en-us/windows/release-information
-[Linux]: https://wiki.ubuntu.com/Releases
-
 
 [Vagrant]: https://www.vagrantup.com/downloads.html
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
@@ -48,16 +45,24 @@
 [MySQL]: https://dev.mysql.com/doc/relnotes
 [PostgreSQL]: https://www.postgresql.org/docs/release
 
+[Laravel]: https://laravel.com/docs/5.5/releases
+
+[Drupal]: https://www.drupal.org/project/drupal/releases
+[WordPress]: https://wordpress.org/download/releases
+<br>
+
+#### 👻 Referência Linguagens
+
+[<img title="Java" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
+[<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
+[<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
+
 [Java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [Python]: https://www.python.org/downloads
 [Php]: https://www.php.net/releases/index.php
 
 [Bootstrap]: https://getbootstrap.com/docs/versions
-
-[Laravel]: https://laravel.com/docs/5.5/releases
-
-[Drupal]: https://www.drupal.org/project/drupal/releases
-[WordPress]: https://wordpress.org/download/releases
 <br>
 
 ----
