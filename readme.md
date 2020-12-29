@@ -1,4 +1,4 @@
-## 🚀 BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
+### 🚀 BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
 <p align=center>
   <br>
@@ -11,7 +11,7 @@
 
 ----
 
-### 📕 GitHub Pages - Curriculum | Josenilto Luis
+#### 📕 GitHub Pages - Curriculum | Josenilto Luis
 
 Formação Acadêmica 
 
@@ -33,7 +33,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 </div>
 
-### 🤙 Conecte-se comigo
+#### 🤙 Conecte-se comigo
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
