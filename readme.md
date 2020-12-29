@@ -38,7 +38,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 ----
 
-### ℹ️ GitHub Stats
+### 🔨 GitHub Stats
 
 <div align="center">
 
