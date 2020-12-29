@@ -15,8 +15,9 @@
 
 Formação Acadêmica 
 
-- Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | Dez. / 2020 - Cursando
-- Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | Ago. / 2019 - Superior Completo
+- Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | Cursando
+- Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | Cursando
+- Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | Superior Completo
 
 Qualificação Profissional
 
