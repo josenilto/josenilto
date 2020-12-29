@@ -3,8 +3,6 @@
 
 
 #### 👻 Referência
-
-<center>
   
 [<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />][windows]
 [<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linux]
@@ -53,8 +51,6 @@
 [Drupal]: https://www.drupal.org/project/drupal/releases
 [WordPress]: https://wordpress.org/download/releases
 <br>
-
-</center>
 
 ----
 
