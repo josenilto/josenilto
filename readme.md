@@ -62,9 +62,11 @@
 
 [<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 [<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgresql]
+[<img title="mongoDB" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][mongodb]
 
 [MySQL]: https://dev.mysql.com/doc/relnotes
 [PostgreSQL]: https://www.postgresql.org/docs/release
+[MongoDB]: https://docs.mongodb.com/manual/release-notes
 <br>
 
 #### 👻 Referência Outros
