@@ -23,6 +23,7 @@
 [<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
 
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
+[<img title="Drupal" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
 
 [Windows]: https://docs.microsoft.com/en-us/windows/release-information/
 [Linux]: https://wiki.ubuntu.com/Releases
@@ -44,6 +45,8 @@
 [Bootstrap]: https://getbootstrap.com/docs/versions/
 
 [Laravel]: https://laravel.com/docs/5.5/releases
+
+[Drupal]: https://www.drupal.org/project/drupal/releases
 <br>
 
 ----
