@@ -18,6 +18,7 @@
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 
+[<img title="Java" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
@@ -29,6 +30,7 @@
 [Kubernetes]: https://kubernetes.io
 [Jenkins]: https://www.jenkins.io/
 
+[Java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [Python]: https://www.python.org/downloads
 [Php]: https://www.php.net/releases/index.php
 
