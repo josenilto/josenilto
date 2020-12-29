@@ -21,9 +21,6 @@
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 
-[<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
-[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgresql]
-
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
 
 [<img title="Drupal" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
@@ -35,9 +32,6 @@
 [Docker]: https://www.docker.com
 [Kubernetes]: https://kubernetes.io
 [Jenkins]: https://www.jenkins.io
-
-[MySQL]: https://dev.mysql.com/doc/relnotes
-[PostgreSQL]: https://www.postgresql.org/docs/release
 
 [Laravel]: https://laravel.com/docs/5.5/releases
 
@@ -68,6 +62,14 @@
 [Bootstrap]: https://getbootstrap.com/docs/versions
 <br>
 
+#### 👻 Referência Banco de dados
+
+[<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
+[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgresql]
+
+[MySQL]: https://dev.mysql.com/doc/relnotes
+[PostgreSQL]: https://www.postgresql.org/docs/release
+<br>
 ----
 
 #### 📝 GitHub Pages - Curriculum | Josenilto Luis
