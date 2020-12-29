@@ -24,7 +24,15 @@ Por meio de análises de complexidade e conclusões de serviços baseadas na met
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
 
-### Conecte-se comigo:
+### 🔨 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=45&include_all_commits=true" /> <img src="https://github-readme-stackoverflow.vercel.app/?userID=14906940"  />
+
+</div>
+
+### Conecte-se comigo
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,11 +43,3 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 [website]: https://www.usuporte.com.br
-
-### 🔨 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=45&include_all_commits=true" /> <img src="https://github-readme-stackoverflow.vercel.app/?userID=14906940"  />
-
-</div>
