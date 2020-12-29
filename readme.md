@@ -21,9 +21,6 @@
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 
-[<img title="Apache" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />][apache]
-[<img title="Nginx" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][nginx]
-
 [<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 [<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgresql]
 
@@ -39,9 +36,6 @@
 [Kubernetes]: https://kubernetes.io
 [Jenkins]: https://www.jenkins.io
 
-[Apache]: https://httpd.apache.org/dev/release.html
-[Nginx]: https://nginx.org
-
 [MySQL]: https://dev.mysql.com/doc/relnotes
 [PostgreSQL]: https://www.postgresql.org/docs/release
 
@@ -49,6 +43,15 @@
 
 [Drupal]: https://www.drupal.org/project/drupal/releases
 [WordPress]: https://wordpress.org/download/releases
+<br>
+
+#### 👻 Referência Serviços
+
+[<img title="Apache" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />][apache]
+[<img title="Nginx" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][nginx]
+
+[Apache]: https://httpd.apache.org/dev/release.html
+[Nginx]: https://nginx.org
 <br>
 
 #### 👻 Referência Linguagens
