@@ -15,6 +15,9 @@
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 
 [<img title="Apache" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />][apache]
+[<img title="Nginx" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][nginx]
+
+[<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
 
 [<img title="Java" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
@@ -39,6 +42,9 @@
 [Jenkins]: https://www.jenkins.io
 
 [Apache]: https://httpd.apache.org/dev/release.html
+[Nginx]: https://nginx.org
+
+[MySQL]: https://dev.mysql.com/doc/relnotes
 
 [Java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [Python]: https://www.python.org/downloads
