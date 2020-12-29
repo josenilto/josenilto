@@ -16,6 +16,7 @@
 [<img title="Terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][terraform]
 [<img title="Docker" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
+[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 
 [<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][Php]
@@ -26,6 +27,7 @@
 [Terraform]: https://www.terraform.io/downloads.html
 [Docker]: https://www.docker.com
 [Kubernetes]: https://kubernetes.io
+[Jenkins]: https://www.jenkins.io/
 
 [Python]: https://www.python.org/downloads
 [Php]: https://www.php.net/releases/index.php
