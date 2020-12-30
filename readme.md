@@ -1,6 +1,15 @@
 ### 🚀 BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
 
+#### 👻 Referência Cloud
+  
+[<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" />][amazon]
+[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][microsoftazure]
+
+[Amazon]: https://aws.amazon.com/pt
+[Microsoftazure]: https://azure.microsoft.com/pt-br
+
+<br>
 
 #### 👻 Referência SO
   
