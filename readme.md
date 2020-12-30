@@ -6,10 +6,12 @@
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][microsoftazure]
 [<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][googlecloud]
+[<img title="vmware" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vmware.svg" />][vmware]
 
 [Amazon]: https://aws.amazon.com/pt
 [Microsoftazure]: https://azure.microsoft.com/pt-br
 [Googlecloud]: https://cloud.google.com
+[vmware]: https://kb.vmware.com/s/article/2143832
 
 <br>
 
@@ -17,9 +19,11 @@
   
 [<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />][windows]
 [<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linux]
+[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />][redhat]
 
 [Windows]: https://docs.microsoft.com/en-us/windows/release-information
 [Linux]: https://wiki.ubuntu.com/Releases
+[Redhat]: https://access.redhat.com/articles/3078
 
 <br>
 
