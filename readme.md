@@ -5,9 +5,11 @@
   
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][microsoftazure]
+[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][googlecloud]
 
 [Amazon]: https://aws.amazon.com/pt
 [Microsoftazure]: https://azure.microsoft.com/pt-br
+[Googlecloud]: https://cloud.google.com
 
 <br>
 
