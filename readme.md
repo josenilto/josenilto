@@ -32,6 +32,7 @@
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
 [<img title="sonarqube" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarqube.svg" />][sonarqube]
+[<img title="Puppet" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][puppet]
 
 [Vagrant]: https://www.vagrantup.com/downloads.html
 [Ansible]: https://docs.ansible.com/ansible/latest/index.html 
@@ -40,6 +41,7 @@
 [Kubernetes]: https://kubernetes.io
 [Jenkins]: https://www.jenkins.io
 [sonarqube]: https://www.sonarqube.org/downloads
+[puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
 <br>
 
 #### 👻 Referência Serviços
@@ -78,6 +80,13 @@
 [MySQL]: https://dev.mysql.com/doc/relnotes
 [PostgreSQL]: https://www.postgresql.org/docs/release
 [MongoDB]: https://docs.mongodb.com/manual/release-notes
+<br>
+
+#### 👻 Referência Monitoramento
+
+[<img title="Grafana" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/grafana.svg" />][grafana]
+
+[Grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 <br>
 
 #### 👻 Referência Outros
