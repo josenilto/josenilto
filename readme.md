@@ -37,7 +37,7 @@
 [<img title="Docker" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />][jenkins]
-[<img title="sonarqube" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarqube.svg" />][sonarqube]
+[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarqube.svg" />][sonarqube]
 [<img title="Puppet" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/puppet.svg" />][puppet]
 
 [Vagrant]: https://www.vagrantup.com/downloads.html
