@@ -5,7 +5,7 @@
   
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][microsoftazure]
-[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][googlecloud]
+[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/josenilto/josenilto/master/images/icon/google-cloud.svg" />][googlecloud]
 [<img title="openstack" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openstack.svg" />][openstack]
 [<img title="vmware" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vmware.svg" />][vmware]
 
