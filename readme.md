@@ -1,12 +1,12 @@
 ### 🚀 BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
 
-#### 👻 Referência Cloud Computing
+#### 👻 Reference Cloud Computing
   
-[<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/amazon.svg" />][amazon]
-[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/azure.svg" />][microsoftazure]
-[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/google.svg" />][googlecloud]
-[<img title="openstack" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/openshift.svg" />][openstack]
+[<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/amazon.svg" />][amazon]
+[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/azure.svg" />][microsoftazure]
+[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/google.svg" />][googlecloud]
+[<img title="openstack" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/openshift.svg" />][openstack]
 
 [Amazon]: https://aws.amazon.com/pt
 [Microsoftazure]: https://azure.microsoft.com/pt-br
@@ -15,14 +15,14 @@
 
 <br>
 
-#### 👻 Referência Operating System
+#### 👻 Reference Operating System
   
-[<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/microsoft.svg" />][windows]
-[<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/linux.svg" />][linux]
-[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/redhat.svg" />][redhat]
-[<img title="Debian" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/debian.svg" />][debian]
-[<img title="CentOs" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/centos.svg" />][centos]
-[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/ubuntu.svg" />][ubuntu]
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/microsoft.svg" />][windows]
+[<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/linux.svg" />][linux]
+[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/redhat.svg" />][redhat]
+[<img title="Debian" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/debian.svg" />][debian]
+[<img title="CentOs" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/centos.svg" />][centos]
+[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="28px" src="../josenilto/blob/master/imagens/icones/operating.system/ubuntu.svg" />][ubuntu]
 
 
 [Windows]: https://docs.microsoft.com/en-us/windows/release-information
@@ -35,7 +35,7 @@
 
 <br>
 
-#### 👻 Referência Ferramentas
+#### 👻 Reference Provisioning
 
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vagrant.svg" />][vagrant]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />][ansible]
