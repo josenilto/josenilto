@@ -41,7 +41,7 @@
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/ansible.svg" />][ansible]
 [<img title="Terraform" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/terraform.svg" />][terraform]
 [<img title="Docker" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/docker.svg" />][docker]
-[<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/kubernetes.svg" />][kubernetes]
+[<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/kubernets.svg" />][kubernetes]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/jenkins.svg" />][jenkins]
 [<img title="SonarQube" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/sonarqube.svg" />][sonarqube]
 [<img title="Puppet" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/puppet.svg" />][puppet]
