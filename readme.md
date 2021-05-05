@@ -7,25 +7,31 @@
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/azure.svg" />][microsoftazure]
 [<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/google.svg" />][googlecloud]
 [<img title="openstack" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/openshift.svg" />][openstack]
-[<img title="vmware" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/vmware.svg" />][vmware]
 
 [Amazon]: https://aws.amazon.com/pt
 [Microsoftazure]: https://azure.microsoft.com/pt-br
 [Googlecloud]: https://cloud.google.com
 [openstack]: https://releases.openstack.org
-[vmware]: https://kb.vmware.com/s/article/2143832
 
 <br>
 
 #### 👻 Referência SO
   
-[<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />][windows]
-[<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linux]
-[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />][redhat]
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/microsoft.svg" />][windows]
+[<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/linux.svg" />][linux]
+[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/redhat.svg" />][redhat]
+[<img title="Debian" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/debian.svg" />][debian]
+[<img title="CentOs" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/centos.svg" />][centos]
+[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/ubuntu.svg" />][ubuntu]
+
 
 [Windows]: https://docs.microsoft.com/en-us/windows/release-information
 [Linux]: https://wiki.ubuntu.com/Releases
 [Redhat]: https://access.redhat.com/articles/3078
+[Debian]:
+[CentOs]:
+[Ubuntu]:
+
 
 <br>
 
