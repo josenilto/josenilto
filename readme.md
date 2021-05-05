@@ -54,24 +54,24 @@
 
 <br>
 
-#### 👻 Referência Serviços
+#### 👻 Reference Services
 
-[<img title="Apache" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />][apache]
-[<img title="Nginx" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nginx.svg" />][nginx]
+[<img title="Apache" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
+[<img title="Nginx" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />][nginx]
 
 [apache]: https://httpd.apache.org/dev/release.html
 [nginx]: https://nginx.org
 
 <br>
 
-#### 👻 Referência Linguagens
+#### 👻 Reference Languages
 
-[<img title="HTML" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html]
-[<img title="CSS" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][css]
-[<img title="Java" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
-[<img title="Python" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img title="Php" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />][php]
-[<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />][bootstrap]
+[<img title="HTML" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
+[<img title="CSS" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
+[<img title="Java" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />][java]
+[<img title="Python" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
+[<img title="Php" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
+[<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />][bootstrap]
 
 [html]: https://www.w3.org/2014/10/html5-rec.html.en
 [css]: https://www.w3.org/Style/CSS20/
@@ -82,11 +82,11 @@
 
 <br>
 
-#### 👻 Referência Banco de dados
+#### 👻 Reference Database
 
-[<img title="MySQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
-[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgresql]
-[<img title="mongoDB" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][mongodb]
+[<img title="MySQL" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
+[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
+[<img title="mongoDB" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
 
 [mysql]: https://dev.mysql.com/doc/relnotes
 [postgresql]: https://www.postgresql.org/docs/release
@@ -94,25 +94,19 @@
 
 <br>
 
-#### 👻 Referência Monitoramento
+#### 👻 Reference Monitoring 
 
-[<img title="Grafana" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/grafana.svg" />][grafana]
-
-[grafana]: https://grafana.com/docs/grafana/latest/release-notes/
-
-<br>
-
-[<img title="Zabbix" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/grafana.svg" />][grafana]
+[<img title="Grafana" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 
 <br>
 
-#### 👻 Referência Outros
+#### 👻 Reference Others
 
-[<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
-[<img title="Drupal" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
-[<img title="WordPress" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+[<img title="Laravel" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
+[<img title="Drupal" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
+[<img title="WordPress" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 
 [laravel]: https://laravel.com/docs/5.5/releases
 [drupal]: https://www.drupal.org/project/drupal/releases
