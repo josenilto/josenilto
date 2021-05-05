@@ -28,9 +28,9 @@
 [Windows]: https://docs.microsoft.com/en-us/windows/release-information
 [Linux]: https://wiki.ubuntu.com/Releases
 [Redhat]: https://access.redhat.com/articles/3078
-[Debian]:
-[CentOs]:
-[Ubuntu]:
+[Debian]: https://www.debian.org/releases
+[CentOs]: https://www.centos.org/download
+[Ubuntu]: https://releases.ubuntu.com/
 
 
 <br>
