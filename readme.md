@@ -22,7 +22,7 @@
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/redhat.svg" />][redhat]
 [<img title="Debian" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/debian.svg" />][debian]
 [<img title="CentOs" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/centos.svg" />][centos]
-[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="28px" src="../josenilto/blob/master/imagens/icones/operating.system/ubuntu.svg" />][ubuntu]
+[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/ubuntu.svg" />][ubuntu]
 
 
 [Windows]: https://docs.microsoft.com/en-us/windows/release-information
