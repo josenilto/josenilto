@@ -95,6 +95,11 @@
 [Grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 <br>
 
+[<img title="Zabbix" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/grafana.svg" />][grafana]
+
+[Grafana]: https://grafana.com/docs/grafana/latest/release-notes/
+<br>
+
 #### 👻 Referência Outros
 
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
