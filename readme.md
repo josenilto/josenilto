@@ -1,7 +1,7 @@
 ### 🚀 BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
 
-#### 👻 Referência Cloud
+#### 👻 Referência Cloud Computing
   
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/amazon.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/azure.svg" />][microsoftazure]
@@ -15,7 +15,7 @@
 
 <br>
 
-#### 👻 Referência SO
+#### 👻 Referência Operating System
   
 [<img title="Windows" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/microsoft.svg" />][windows]
 [<img title="Linux" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/so/linux.svg" />][linux]
