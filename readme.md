@@ -17,18 +17,16 @@
 #### 👻 Reference Operating System
 
 [<img title="Windows" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
-[<img title="Linux" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
 [<img title="Debian" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
 [<img title="CentOs" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
 [<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
 
 [windows]: https://docs.microsoft.com/en-us/windows/release-information
-[linux]: https://wiki.ubuntu.com/Releases
 [redhat]: https://access.redhat.com/articles/3078
 [debian]: https://www.debian.org/releases
 [centos]: https://www.centos.org/download
-[ubuntu]: https://releases.ubuntu.com/
+[ubuntu]: https://wiki.ubuntu.com/Releases
 
 <br>
 
