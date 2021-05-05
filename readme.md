@@ -3,11 +3,11 @@
 
 #### 👻 Referência Cloud
   
-[<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazon.svg" />][amazon]
-[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][microsoftazure]
-[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/images/icon/google-cloud.svg" />][googlecloud]
-[<img title="openstack" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openstack.svg" />][openstack]
-[<img title="vmware" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vmware.svg" />][vmware]
+[<img title="Amazon" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/amazon.svg" />][amazon]
+[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/azure.svg" />][microsoftazure]
+[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/google.svg" />][googlecloud]
+[<img title="openstack" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/openshift.svg" />][openstack]
+[<img title="vmware" align="left" alt="josenilto | Twitter" width="28px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/clouds/vmware.svg" />][vmware]
 
 [Amazon]: https://aws.amazon.com/pt
 [Microsoftazure]: https://azure.microsoft.com/pt-br
