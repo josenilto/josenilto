@@ -104,9 +104,9 @@
 
 #### 👻 Reference Others
 
-[<img title="Laravel" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />][laravel]
-[<img title="Drupal" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />][drupal]
-[<img title="WordPress" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+[<img title="Laravel" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />][laravel]
+[<img title="Drupal" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/drupal.svg" />][drupal]
+[<img title="WordPress" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][wordpress]
 
 [laravel]: https://laravel.com/docs/5.5/releases
 [drupal]: https://www.drupal.org/project/drupal/releases
@@ -140,9 +140,9 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 #### 🤙 Conecte-se comigo
 
-[<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img title="Usuporte" align="left" alt="josenilto | Twitter" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
+[<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img title="Usuporte" align="left" alt="josenilto | Twitter" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ![Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)
 
