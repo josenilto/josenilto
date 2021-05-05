@@ -2,10 +2,10 @@
 
 #### 👻 Reference Cloud Computing
 
-[<img title="Amazon" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/amazon.svg" />][amazon]
-[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/azure.svg" />][microsoftazure]
-[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/google.svg" />][googlecloud]
-[<img title="openstack" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/cloud.computing/openshift.svg" />][openstack]
+[<img title="Amazon" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazon.svg" />][amazon]
+[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/azure.svg" />][microsoftazure]
+[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/google.svg" />][googlecloud]
+[<img title="openstack" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/openshift.svg" />][openstack]
 
 [amazon]: https://aws.amazon.com/pt
 [microsoftazure]: https://azure.microsoft.com/pt-br
@@ -16,12 +16,12 @@
 
 #### 👻 Reference Operating System
 
-[<img title="Windows" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/microsoft.svg" />][windows]
-[<img title="Linux" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/linux.svg" />][linux]
-[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/redhat.svg" />][redhat]
-[<img title="Debian" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/debian.svg" />][debian]
-[<img title="CentOs" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/centos.svg" />][centos]
-[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/operating.system/ubuntu.svg" />][ubuntu]
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
+[<img title="Linux" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />][linux]
+[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
+[<img title="Debian" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
+[<img title="CentOs" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
+[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
 
 [windows]: https://docs.microsoft.com/en-us/windows/release-information
 [linux]: https://wiki.ubuntu.com/Releases
@@ -34,14 +34,14 @@
 
 #### 👻 Reference Provisioning & Deploy
 
-[<img title="Vagrant" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/vagrant.svg" />][vagrant]
-[<img title="Ansible" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/ansible.svg" />][ansible]
-[<img title="Terraform" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/terraform.svg" />][terraform]
-[<img title="Docker" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/docker.svg" />][docker]
-[<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/kubernets.svg" />][kubernetes]
-[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/jenkins.svg" />][jenkins]
-[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/sonarqube.svg" />][sonarqube]
-[<img title="Puppet" align="left" alt="josenilto | Twitter" width="30px" src="https://github.com/josenilto/josenilto/blob/master/imagens/icones/provisioning.deploy/puppet.svg" />][puppet]
+[<img title="Vagrant" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
+[<img title="Ansible" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
+[<img title="Terraform" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
+[<img title="Docker" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
+[<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernets.svg" />][kubernetes]
+[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
+[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
+[<img title="Puppet" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/puppet.svg" />][puppet]
 
 [vagrant]: https://www.vagrantup.com/downloads.html
 [ansible]: https://docs.ansible.com/ansible/latest/index.html
