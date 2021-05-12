@@ -2,7 +2,7 @@
 
 #### 👻 Reference Cloud Computing
 
-[<img title="Amazon" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazon.svg" />][amazon]
+[<img title="Amazon" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
 [<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />][googlecloud]
 [<img title="OpenStack" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/openstack.svg" />][openstack]
