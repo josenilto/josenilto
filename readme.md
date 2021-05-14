@@ -74,10 +74,10 @@
 
 [html]: https://www.w3.org/2014/10/html5-rec.html.en
 [css]: https://www.w3.org/Style/CSS20/
-[java]: https://www.oracle.com/java/technologies/javase-downloads.html
-[python]: https://www.python.org/downloads
 [php]: https://www.php.net/releases/index.php
+[java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [bootstrap]: https://getbootstrap.com/docs/versions
+[python]: https://www.python.org/downloads
 [gnubash]: https://www.gnu.org/software/bash/manual/bash.html
 
 <br>
