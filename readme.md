@@ -53,9 +53,11 @@
 #### 👻 Reference Services
 
 [<img title="Apache" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
+[<img title="Apache Hive" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachehive.svg" />][apachehive]
 [<img title="Nginx" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />][nginx]
 
 [apache]: https://httpd.apache.org/dev/release.html
+[apachehive]: http://www.apache.org/dyn/closer.cgi/hive/
 [nginx]: https://nginx.org
 
 <br>
