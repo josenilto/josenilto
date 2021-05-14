@@ -72,6 +72,7 @@
 [<img title="Python" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
 [<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />][bootstrap]
+[<img title="Gnu Bash" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />][gnubash]
 
 [html]: https://www.w3.org/2014/10/html5-rec.html.en
 [css]: https://www.w3.org/Style/CSS20/
@@ -79,6 +80,7 @@
 [python]: https://www.python.org/downloads
 [php]: https://www.php.net/releases/index.php
 [bootstrap]: https://getbootstrap.com/docs/versions
+[gnubash]: https://www.gnu.org/software/bash/manual/bash.html
 
 <br>
 
@@ -105,10 +107,12 @@
 #### 👻 Reference Others
 
 [<img title="Laravel" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />][laravel]
+[<img title="Codeigniter" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codeigniter.svg" />][codeigniter]
 [<img title="Drupal" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/drupal.svg" />][drupal]
 [<img title="WordPress" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][wordpress]
 
 [laravel]: https://laravel.com/docs/5.5/releases
+[codeigniter]: https://codeigniter.com/download
 [drupal]: https://www.drupal.org/project/drupal/releases
 [wordpress]: https://wordpress.org/download/releases
 
