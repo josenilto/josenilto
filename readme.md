@@ -5,14 +5,10 @@
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
 [<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />][googlecloud]
-[<img title="OpenStack" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/openstack.svg" />][openstack]
-[<img title="VMWARE" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vmware.svg" />][vmware]
 
 [amazon]: https://aws.amazon.com/pt
 [microsoftazure]: https://azure.microsoft.com/pt-br
 [googlecloud]: https://cloud.google.com
-[openstack]: https://releases.openstack.org
-[vmware]: https://www.vmware.com/company/news/releases.html
 
 <br>
 
