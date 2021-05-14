@@ -82,10 +82,12 @@
 
 #### 👻 Reference Database
 
+[<img title="Microsoft SQL Server" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
 [<img title="MySQL" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
 [<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
 [<img title="mongoDB" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
 
+[microsoftsqlserver]: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
 [mysql]: https://dev.mysql.com/doc/relnotes
 [postgresql]: https://www.postgresql.org/docs/release
 [mongodb]: https://docs.mongodb.com/manual/release-notes
