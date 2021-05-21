@@ -144,7 +144,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 <div text-align="center" style="display: inline_block">
   <a href="https://github.com/josenilto">
-    <img height="380em" src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=45&include_all_commits=true" /> <img height="200em" src="https://github-readme-stackoverflow.vercel.app/?userID=14906940" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto&layout=compact&langs_count=16&theme=default"/>
+    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=45&include_all_commits=true" /> <img height="200em" src="https://github-readme-stackoverflow.vercel.app/?userID=14906940" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto&layout=compact&langs_count=16&theme=default"/>
   </a>
 </div>
 
