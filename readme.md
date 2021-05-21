@@ -158,10 +158,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 [website]: https://www.usuporte.com.br
 
-https://img.shields.io/website?color=kkk&down_color=kkkkk&down_message=kkkk&label=kkkk&logo=kkk&logoColor=kkk&style=flat-square&up_color=kkkkk&up_message=josenilto&url=https%3A%2F%2Fjosenilto.eti.br
-
-
-![Website]<a href="https://github.com/josenilto">(https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)</a>
+![Website]<a href="https://github.com/josenilto">https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br</a>
 
 
 ---
