@@ -154,12 +154,14 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img title="Usuporte" align="left" alt="josenilto | Twitter" width="250px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][websiteusuporte]
-[<img title="Josenilto" align="left" alt="josenilto | Twitter" width="250px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]
+[<img title="Usuporte" align="left" alt="josenilto | Twitter" width="180px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][websiteusuporte]
+[<img title="Josenilto" align="left" alt="josenilto | Twitter" width="180px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]
 
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 [websitejosenilto]: https://www.josenilto.eti.br
 [websiteusuporte]: https://www.usuporte.com.br
+
+<br>
 
 ---
