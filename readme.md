@@ -142,7 +142,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 ### 🔨 GitHub Stats
 
-<div style="display: inline_block; align=center">
+<div style="display: inline_block; align: center">
   <a href="https://github.com/josenilto">
     <img src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=45&include_all_commits=true" /> 
     <img src="https://github-readme-stackoverflow.vercel.app/?userID=14906940" /> 
