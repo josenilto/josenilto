@@ -156,7 +156,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img title="Usuporte" align="left" alt="josenilto | Twitter" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img title="Usuporte" align="left" alt="josenilto | Twitter" width="30px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][webite]
+[<img title="Usuporte" align="left" alt="josenilto | Twitter" width="300px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][webite]
 
 ![Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)
 ![Website](https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br)
