@@ -158,10 +158,8 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 [website]: https://www.usuporte.com.br
 
-<a href="https://usuporte.com.br">
-<div>
-[Website](https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br)
-</div>
-</a>
+
+![Website](href="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br")
+
 
 ---
