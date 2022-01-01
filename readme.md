@@ -130,9 +130,9 @@
 
 **Formação Acadêmica**
 
-- [ ] Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | Cursando
-- [ ] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | Cursando
-- [x] Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | Superior Completo
+- [ ] Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | *Cursando*
+- [ ] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | *Cursando*
+- [x] Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | *Superior Completo*
 
 **Qualificação Profissional**
 
