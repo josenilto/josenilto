@@ -128,13 +128,13 @@
 
 #### 📝 GitHub Pages - Curriculum | Josenilto Luis
 
-Formação Acadêmica
+**Formação Acadêmica**
 
 - [ ] Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | Cursando
 - [ ] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | Cursando
 - [x] Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | Superior Completo
 
-Qualificação Profissional
+**Qualificação Profissional**
 
 Por meio de análises de complexidade e conclusões de serviços baseadas na metodologia ITIL, virtualização de servidores, configuração, sustentabilidade e implementação, execução de microsserviços e backup, tenho ampla experiência no tratamento de solicitações de incidentes relacionados à infraestrutura. 
 
