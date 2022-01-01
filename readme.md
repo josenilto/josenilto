@@ -1,6 +1,6 @@
 ### 🚀 BEM-VINDOS! ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
-#### 👻 Reference Cloud Computing
+👻 **Reference Cloud Computing**
 
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
@@ -12,7 +12,7 @@
 
 <br>
 
-#### 👻 Reference Operating System
+👻 **Reference Operating System**
 
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
 [<img title="CentOs" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
@@ -28,7 +28,7 @@
 
 <br>
 
-#### 👻 Reference Provisioning & Deploy
+👻 **Reference Provisioning & Deploy**
 
 [<img title="Terraform" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
@@ -50,7 +50,7 @@
 
 <br>
 
-#### 👻 Reference Services
+👻 **Reference Services**
 
 [<img title="Apache" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
 [<img title="Apache Hive" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachehive.svg" />][apachehive]
@@ -62,7 +62,7 @@
 
 <br>
 
-#### 👻 Reference Languages
+👻 **Reference Languages**
 
 [<img title="HTML" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
 [<img title="CSS" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
@@ -96,7 +96,7 @@
 
 <br>
 
-#### 👻 Reference Monitoring 
+👻 **Reference Monitoring**
 
 [<img title="Grafana" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
 
@@ -104,7 +104,7 @@
 
 <br>
 
-#### 👻 Reference Others
+👻 **Reference Others**
 
 [<img title="Webmin" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webmin.svg" />][webmin]
 [<img title="PFsense" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pfsense.svg" />][pfsense]
