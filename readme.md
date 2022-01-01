@@ -51,6 +51,7 @@
 [puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
 
 <br>
+<br>
 
 👻 **Reference Services**
 
@@ -62,6 +63,7 @@
 [apachehive]: http://www.apache.org/dyn/closer.cgi/hive/
 [nginx]: https://nginx.org
 
+<br>
 <br>
 
 👻 **Reference Languages**
@@ -83,8 +85,9 @@
 [gnubash]: https://www.gnu.org/software/bash/manual/bash.html
 
 <br>
+<br>
 
-#### 👻 Reference Database
+👻 **Reference Database**
 
 [<img title="Microsoft SQL Server" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
 [<img title="MySQL" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
@@ -97,6 +100,7 @@
 [mongodb]: https://docs.mongodb.com/manual/release-notes
 
 <br>
+<br>
 
 👻 **Reference Monitoring**
 
@@ -104,6 +108,7 @@
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 
+<br>
 <br>
 
 👻 **Reference Others**
@@ -125,7 +130,7 @@
 [wordpress]: https://wordpress.org/download/releases
 
 <br>
-
+<br>
 ---
 
 📝 **GitHub Pages - Curriculum | Josenilto Luis**
