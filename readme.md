@@ -14,11 +14,11 @@
 
 #### 👻 Reference Operating System
 
-[<img title="Windows" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
 [<img title="Debian" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
 [<img title="CentOs" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
 [<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
 
 [windows]: https://docs.microsoft.com/en-us/windows/release-information
 [redhat]: https://access.redhat.com/articles/3078
@@ -32,8 +32,8 @@
 
 [<img title="Terraform" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
-[<img title="Docker" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
 [<img title="Kubernetes" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
+[<img title="Docker" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
 [<img title="SonarQube" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
