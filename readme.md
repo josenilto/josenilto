@@ -11,6 +11,7 @@
 [googlecloud]: https://cloud.google.com
 
 <br>
+<br>
 
 👻 **Reference Operating System**
 
@@ -26,6 +27,7 @@
 [centos]: https://www.centos.org/download
 [ubuntu]: https://wiki.ubuntu.com/Releases
 
+<br>
 <br>
 
 👻 **Reference Provisioning & Deploy**
