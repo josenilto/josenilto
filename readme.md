@@ -126,7 +126,7 @@
 
 ---
 
-#### 📝 GitHub Pages - Curriculum | Josenilto Luis
+📝 **GitHub Pages - Curriculum | Josenilto Luis**
 
 **Formação Acadêmica**
 
@@ -142,7 +142,7 @@ Tenho mais de 09 anos de experiência em planejamento e melhoria de infraestrutu
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
 
-### 🔨 GitHub Stats
+🔨 **GitHub Stats**
 
 <div style="display: inline_block">
   <a href="https://github.com/josenilto">
@@ -152,7 +152,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
   </a>
 </div>
 
-#### 🤙 Conecte-se comigo
+🤙 **Conecte-se comigo**
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
