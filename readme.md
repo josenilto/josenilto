@@ -154,7 +154,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 <div style="display: inline_block">
   <a href="https://github.com/josenilto">
-    <img src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=35&include_all_commits=true" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=25&include_all_commits=true" /> 
     <img src="https://github-readme-stackoverflow.vercel.app/?userID=14906940" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto&layout=compact&langs_count=16&theme=default"/>
   </a>
@@ -164,8 +164,8 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img title="Usuporte" align="left" alt="josenilto | Site" width="20px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][websiteusuporte]
-[<img title="Josenilto" align="left" alt="josenilto | Site" width="20px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]
+[<img title="Usuporte" align="left" alt="josenilto | Site" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][websiteusuporte]
+[<img title="Josenilto" align="left" alt="josenilto | Site" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]
 
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
