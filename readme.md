@@ -15,11 +15,11 @@
 
 👻 **Reference Operating System**
 
-[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
-[<img title="CentOs" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
-[<img title="Debian" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
-[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
-[<img title="Windows" align="left" alt="josenilto | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
+[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
+[<img title="CentOs" align="left" alt="josenilto | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
+[<img title="Debian" align="left" alt="josenilto | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
+[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
 
 [windows]: https://docs.microsoft.com/en-us/windows/release-information
 [redhat]: https://access.redhat.com/articles/3078
