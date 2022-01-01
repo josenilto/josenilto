@@ -159,16 +159,6 @@ Tenho mais de 09 anos de experiência em planejamento e melhoria de infraestrutu
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
 
-🔨 **GitHub Stats**
-
-<div style="display: inline_block">
-  <a href="https://github.com/josenilto">
-    <img src="https://github-readme-stats.vercel.app/api?username=josenilto&show_icons=true&line_height=30&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josenilto&layout=compact&line_height=30&langs_count=20&theme=default"/>
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=14906940" />
-  </a>
-</div>
-
 🤙 **Conecte-se comigo**
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
