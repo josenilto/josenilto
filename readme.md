@@ -143,7 +143,7 @@
 
 ---
 
-📝 **GitHub Pages - Curriculum | Josenilto Luis** = ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
+📝 **GitHub Pages - Curriculum | Josenilto Luis** ![visitors](https://visitor-badge.glitch.me/badge?page_id=josenilto.josenilto)
 
 **Formação Acadêmica**
 
