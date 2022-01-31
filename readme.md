@@ -157,6 +157,14 @@ Por meio de análises de complexidade e conclusões de serviços baseadas na met
 
 Tenho mais de 09 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
+- [x] DevOps
+- [x] Arquiteto Cloud 
+- [x] Analista Operacional, On-Premise e Cloud
+
+- [x] Supervisor TI
+- [x] Técnico de informática
+- [x] Estagiário de TI
+
 Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 🤙 **Conecte-se comigo**
