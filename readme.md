@@ -155,7 +155,7 @@
 
 Por meio de análises de complexidade e conclusões de serviços baseadas na metodologia ITIL, virtualização de servidores, configuração, sustentabilidade e implementação, execução de microsserviços e backup, tenho ampla experiência no tratamento de solicitações de incidentes relacionados à infraestrutura. 
 
-Tenho mais de 09 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
+Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
 - [x] DevOps
 - [x] Arquiteto Cloud 
