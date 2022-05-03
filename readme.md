@@ -143,7 +143,7 @@
 
 ---
 
-📝 **GitHub Pages - Curriculum | Josenilto Luis**
+📝 **GitHub Pages - Curriculum | Josenilto L Silva**
 
 **Formação Acadêmica**
 
