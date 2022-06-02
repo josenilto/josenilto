@@ -155,7 +155,7 @@
 
 Por meio de análises de complexidade e conclusões de serviços baseadas na metodologia ITIL, virtualização de servidores, configuração, sustentabilidade e implementação, execução de microsserviços e backup, tenho ampla experiência no tratamento de solicitações de incidentes relacionados à infraestrutura. 
 
-Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop); 
+Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop);    
 Ferramentas de Ciência de Dados e Machine Learning, Automação (Ansible, Chef, Puppet); 
 Cultura DevOps (Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade); 
 Elastic Stack, Grafana, InfluxData Stack, Zabbix, linguagens de programação (Python, Go, Node, Java, Scala); 
