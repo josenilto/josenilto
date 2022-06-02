@@ -155,12 +155,15 @@
 
 Por meio de análises de complexidade e conclusões de serviços baseadas na metodologia ITIL, virtualização de servidores, configuração, sustentabilidade e implementação, execução de microsserviços e backup, tenho ampla experiência no tratamento de solicitações de incidentes relacionados à infraestrutura. 
 
+Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop); 
+Ferramentas de Ciência de Dados e Machine Learning, Automação (Ansible, Chef, Puppet); 
+Cultura DevOps (Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade); 
+Elastic Stack, Grafana, InfluxData Stack, Zabbix, linguagens de programação (Python, Go, Node, Java, Scala); 
+Experiência com JVM; Cloud (AWS, Azure, Google Cloud Platform).
+
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
 - [x] SRE/DevOps
-
-Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop); Ferramentas de Ciência de Dados e Machine Learning, Automação (Ansible, Chef, Puppet); cultura DevOps (Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade); Elastic Stack, Grafana, InfluxData Stack, Zabbix, linguagens de programação (Python, Go, Node, Java, Scala…); experiência com JVM; Cloud (AWS, Azure, Google Cloud Platform).
-
 - [x] DevOps Sênior
 - [x] Analista Pleno - Cloud 
 - [x] Arquiteto Cloud 
