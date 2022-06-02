@@ -157,7 +157,9 @@ Por meio de análises de complexidade e conclusões de serviços baseadas na met
 
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
-- [x] DevOps
+- [x] DevOps/SRE
+- [x] DevOps Sênior
+- [x] Analista Pleno - Cloud 
 - [x] Arquiteto Cloud 
 - [x] Analista Operacional, On-Premise e Cloud
 
