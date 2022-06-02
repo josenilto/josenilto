@@ -161,7 +161,7 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 - [x] DevOps Sênior
 - [x] Analista Pleno - Cloud 
 - [x] Arquiteto Cloud 
-- [x] Analista Operacional, On-Premise e Cloud
+- [x] Analista Multiplataforma Operacional, On-Premise e Cloud
 
 - [x] Supervisor TI
 - [x] Técnico de informática
