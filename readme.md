@@ -170,7 +170,7 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 - [x] Analista Multiplataforma Operacional, On-Premise e Cloud
 
 - [x] Supervisor Operacional de TI
-- [x] Técnico de informática
+- [x] Técnico de Informática
 - [x] Estagiário de TI
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
