@@ -158,8 +158,8 @@ Por meio de análises de complexidade e conclusões de serviços baseadas na met
 Experiência com JVM; Cloud (AWS, Azure, Google Cloud Platform);   
 Ferramentas de IAC - infraestrutura como código: (terraform, Ansible, Chef, Puppet);    
 Cultura DevOps (Docker, Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade);   
-Experiência com aplicações de monitoramento; Elastic Stack, Grafana, InfluxData Stack, Zabbix;
-Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop);
+Experiência com aplicações de monitoramento; Elastic Stack, Grafana, InfluxData Stack, Zabbix;    
+Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop);    
 Conhecimento em alguma linguagem de script para automações (Python, Go, Node, Java).
 
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
