@@ -41,6 +41,7 @@
 [<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
 [<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
+[<img title="Github" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 [<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
 [<img title="Puppet" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/puppet.svg" />][puppet]
@@ -51,6 +52,7 @@
 [docker]: https://www.docker.com
 [kubernetes]: https://kubernetes.io
 [jenkins]: https://www.jenkins.io
+[github]: https://github.com
 [sonarqube]: https://www.sonarqube.org/downloads
 [puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
 
