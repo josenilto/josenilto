@@ -114,9 +114,11 @@
 
 [<img title="Grafana" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
 [<img title="Prometheus" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" />][prometheus]
+[<img title="Graylog" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/graylog.svg" />][prometheus]
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 [prometheus]: https://prometheus.io/docs/introduction/release-cycle/
+[graylog]: https://www.graylog.org/releases
 
 <br>
 <br>
