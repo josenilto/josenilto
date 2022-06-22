@@ -113,8 +113,10 @@
 👻 **Reference Monitoring**
 
 [<img title="Grafana" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
+[<img title="Monitoramento: Prometheus, Grafana e Alertmanager" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" />][prometheus]
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
+[prometheus]: https://prometheus.io/docs/introduction/release-cycle/
 
 <br>
 <br>
