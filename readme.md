@@ -18,12 +18,16 @@
 
 👻 **Reference Operating System**
 
+[<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
+[<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
 [<img title="CentOs" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
 [<img title="Debian" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
 [<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
 [<img title="Windows" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
 
+[docker]: https://www.docker.com
+[kubernetes]: https://kubernetes.io
 [windows]: https://docs.microsoft.com/en-us/windows/release-information
 [redhat]: https://access.redhat.com/articles/3078
 [debian]: https://www.debian.org/releases
@@ -38,8 +42,6 @@
 
 [<img title="Terraform: automatize a infraestrutura na nuvem" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
-[<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
-[<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
 [<img title="Jenkins" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
 [<img title="Github" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 [<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
@@ -49,8 +51,6 @@
 [vagrant]: https://www.vagrantup.com/downloads.html
 [ansible]: https://docs.ansible.com/ansible/latest/index.html
 [terraform]: https://www.terraform.io/downloads.html
-[docker]: https://www.docker.com
-[kubernetes]: https://kubernetes.io
 [jenkins]: https://www.jenkins.io
 [github]: https://github.com
 [sonarqube]: https://www.sonarqube.org/downloads
