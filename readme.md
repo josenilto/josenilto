@@ -164,7 +164,7 @@ Por meio de análises de complexidade e conclusões de serviços baseadas na met
 **Skills**
 
 Experiência com JVM; Cloud (AWS, Azure, Google Cloud Platform);   
-Cultura DevOps (Docker, Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade);
+Cultura DevOps (Docker, Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade);     
 Ferramentas de IAC - infraestrutura como código: (terraform, Ansible, Chef, Puppet);       
 Monitoramento de aplicações; Elastic Stack, Grafana, InfluxData Stack, Zabbix;    
 Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop);    
