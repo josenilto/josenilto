@@ -155,7 +155,7 @@
 
 - [ ] Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | *Cursando*
 - [ ] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | *Cursando*    
- ✅ Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | *Superior Completo*
+✅ Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | *Superior Completo*
 
 **Qualificação Profissional**
 
