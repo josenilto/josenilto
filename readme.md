@@ -178,8 +178,8 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 ✅ Arquiteto Cloud   
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud
 
-✅ Supervisor Operacional de TI
-✅ Técnico de Informática
+✅ Supervisor Operacional de TI    
+✅ Técnico de Informática    
 ✅ Estagiário de TI
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.
