@@ -172,10 +172,10 @@ Linguagem de script para automações (shellscript, python, powershell, Go, Node
 
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
-✅ SRE/DevOps
-✅ DevOps Sênior
-✅ Analista Cloud Pleno 
-✅ Arquiteto Cloud 
+✅ SRE/DevOps    
+✅ DevOps Sênior   
+✅ Analista Cloud Pleno    
+✅ Arquiteto Cloud   
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud
 
 ✅ Supervisor Operacional de TI
