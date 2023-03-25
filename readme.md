@@ -176,7 +176,7 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 ✅ DevSecOps     
 ✅ DevOps      
 ✅ Analista Infraestrutura    
-✅ Analista Cloud Pleno    
+✅ Analista Cloud     
 ✅ Arquiteto Cloud   
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud
 
