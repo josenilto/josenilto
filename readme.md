@@ -166,7 +166,7 @@ Por meio de análise de complexidade e conclusões de serviços baseadas na meto
 Experiência com JVM; Cloud (AWS, Azure, Google Cloud Platform);   
 Cultura DevOps (Docker, Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade);     
 Ferramentas de IAC - infraestrutura como código: (terraform, Ansible, Chef, Puppet);       
-Monitoramento de aplicações; Elastic Stack, Grafana, InfluxData Stack, Zabbix;    
+Monitoramento de aplicações; Grafana, Prometheus, Alertmanager, Elasticsearch, MongoDB, InfluxData, Jenkins, Zabbix e Métricas;    
 Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop);    
 Linguagem de script para automações (shellscript, python, powershell, Go, Node, Java).
 
