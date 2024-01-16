@@ -173,10 +173,10 @@ Linguagem de script para automações (shellscript, python, powershell, Go, Node
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
 ✅ **SRE** [ TIVIT - Cliente; Petrobras ]     
-✅ **DevOps** [ TelTec Solutions - Clientes; Grupo Madero, BRMALS, Azul ... ]     
+✅ **DevOps** [ TelTec Solutions - Clientes; Grupo Madero, BRMALLS, Azul ... ]     
 ✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]     
 ✅ **Arquiteto Cloud** [ Grupo Madero ]     
-✅ Analista Cloud  [ Linx ]    
+✅ Analista Cloud  [ Linx - Projetos chaordic ]    
 ✅ Analista Infraestrutura [ Stefanini LATAM ]    
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; Caixa Econômica Federal ] 
 
