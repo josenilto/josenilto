@@ -180,6 +180,8 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 ✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; ANP - Projeto APPs ]    
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; Caixa Econômica Federal ] 
 
+✅ Analista de Implantação [ Ferragens Ramada ] [ Cam Tecnologia - Cliente; RNP, Ferragens Ramada ... ]    
+
 ✅ Supervisor Operacional de TI [ Universidade Veiga de Almeida ]    
 ✅ Técnico de Informática [ Universidade Veiga de Almeida ]    
 ✅ Estagiário de TI [ Universidade Veiga de Almeida ] 
