@@ -154,8 +154,8 @@
 **Formação Acadêmica**
 
 - [ ] Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | *Cursando*
-- [x] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | *Superior Completo* *20/03/2024*  
-- [x] Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | *Superior Completo* *23/08/2019*
+- [x] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | **Superior Completo* *20/03/2024**  
+- [x] Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | **Superior Completo* *23/08/2019**
 
 **Qualificação Profissional**
 
@@ -177,7 +177,7 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 ✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]     
 ✅ **Arquiteto Cloud** [ Grupo Madero ]     
 ✅ Analista Cloud  [ Linx - Projetos chaordic ]    
-✅ Analista Infraestrutura [ Stefanini LATAM ]    
+✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; ANP - Projeto APPs ]    
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; Caixa Econômica Federal ] 
 
 ✅ Supervisor Operacional de TI [ Universidade Veiga de Almeida ]    
