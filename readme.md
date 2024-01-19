@@ -20,6 +20,9 @@
 [<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
 [<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
 
+<br>
+<br>
+
 👻 **Reference Operating System**
 
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
