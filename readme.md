@@ -164,14 +164,44 @@
 
 Sou um profissional altamente capacitado com mais de 10 anos de experiência em TI, especializado em infraestrutura, virtualização de servidores e implementação de soluções baseadas em nuvem. Minha expertise abrange desde a análise de incidentes conforme as práticas ITIL até o desenvolvimento e aprimoramento de infraestruturas complexas. 
 
-**Skills**
+**Principais Competências:**
 
-Experiência com JVM; Cloud (AWS, Azure, Google Cloud Platform);   
-Cultura DevOps (Docker, Kubernetes, OKD, OpenShift, CI & CD, Monitoração, Observabilidade);     
-Ferramentas de IAC - infraestrutura como código: (terraform, Ansible, Chef, Puppet);       
-Monitoramento de aplicações; Grafana, Prometheus, Alertmanager, Elasticsearch, MongoDB, InfluxData, Jenkins, Zabbix e Métricas;    
-Conhecimento em ferramentas de Big Data (Kafka, Spark, Flink, Hadoop);    
-Linguagem de script para automações (shellscript, python, powershell, Go, Node, Java).
+**Infraestrutura e Serviços em Nuvem:**
+
+Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).
+Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.
+Especialista em migração de cargas de trabalho entre diferentes ambientes e serviços de nuvem.
+
+**Planejamento Estratégico em TI:**
+
+Estratégias eficazes para tomada de decisão, gerenciamento de custos e desligamento de recursos.
+Experiência em computação sob demanda e arquitetura de micro serviços.
+
+**Automação e DevOps:**
+
+Proficiente em infraestrutura como código (Terraform, Ansible, Vagrant, Puppet).
+Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenkins, SonarQube).
+
+**Administração de Sistemas e Redes:**
+
+Expertise em administração de servidores Web (Apache, Jboss, Tomcat, NginX, IIS).
+Fluência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, JavaScript).
+Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.
+
+**Bancos de Dados e Linguagens:**
+
+Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).
+Conhecimento avançado em linguagens de marcação (HTML5, CSS3) e programação.
+
+**Segurança e Monitoramento:**
+
+Implementação de medidas de segurança eficazes.
+Monitoramento e rastreamento através de ferramentas como Zabbix, Grafana, Elastic, New Relic, Kibana.
+
+**Comunicação e Colaboração:**
+
+Habilidades avançadas em acesso remoto (MobaXterm, Bitvise, Putty SSH).
+Facilidade em comunicação e colaboração, evidenciada por meu perfil no LinkedIn e GitHub.
 
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
