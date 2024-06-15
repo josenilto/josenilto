@@ -210,7 +210,7 @@ Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutu
 ✅ **SRE** [ TIVIT - Cliente; Petrobras ]     
 ✅ **DevOps** [ TelTec Solutions - Clientes; Grupo Madero, BRMALLS, Azul ... ]     
 ✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]     
-✅ **Arquiteto Cloud** [ Grupo Madero ]     
+✅ **Arquiteto Cloud / DevOps** [ Grupo Madero ]     
 ✅ Analista Cloud  [ Linx - Projetos chaordic ]    
 ✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; ANP - Projeto APPs ]    
 ✅ Analista Multiplataforma Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; Caixa Econômica Federal ] 
