@@ -52,6 +52,7 @@
 [<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
 [<img title="Puppet" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/puppet.svg" />][puppet]
+[<img title="Harbor" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/harbor.svg" />][harbor]
 
 [vagrant]: https://www.vagrantup.com/downloads.html
 [ansible]: https://docs.ansible.com/ansible/latest/index.html
@@ -60,6 +61,7 @@
 [github]: https://github.com
 [sonarqube]: https://www.sonarqube.org/downloads
 [puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
+[harbor]: https://goharbor.io
 
 <br>
 <br>
