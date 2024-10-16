@@ -1,18 +1,6 @@
 🚀 **BEM-VINDOS!**
 
-<br>
 
-👻 **Reference Cloud Computing**
-
-[<img title="Amazon" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
-[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
-[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />][googlecloud]
-
-[amazon]: https://aws.amazon.com/pt
-[microsoftazure]: https://azure.microsoft.com/pt-br
-[googlecloud]: https://cloud.google.com
-
-<br>
 <br>
 
 👻 **Reference Microservices**
@@ -178,6 +166,19 @@ Minha expertise abrange desde a análise de incidentes conforme as práticas ITI
 Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).<br>
 Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.<br>
 Especialista em migração de cargas de trabalho entre diferentes ambientes e serviços de nuvem.
+
+<br>
+👻 **Reference Cloud Computing**
+
+[<img title="Amazon" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
+[<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
+[<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />][googlecloud]
+
+[amazon]: https://aws.amazon.com/pt
+[microsoftazure]: https://azure.microsoft.com/pt-br
+[googlecloud]: https://cloud.google.com
+
+<br>
 
 **Planejamento Estratégico em TI:**
 
