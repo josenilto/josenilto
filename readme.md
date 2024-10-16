@@ -172,18 +172,18 @@ Sou um profissional altamente capacitado com mais de 10 anos de experiência em 
 
 **Infraestrutura e Serviços em Nuvem:**
 
-Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).
-Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.
+Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).<br>
+Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.<br>
 Especialista em migração de cargas de trabalho entre diferentes ambientes e serviços de nuvem.
 
 **Planejamento Estratégico em TI:**
 
-Estratégias eficazes para tomada de decisão, gerenciamento de custos e desligamento de recursos.
+Estratégias eficazes para tomada de decisão, gerenciamento de custos e desligamento de recursos.<br>
 Experiência em computação sob demanda e arquitetura de micro serviços.
 
 **Automação e DevOps:**
 
-Proficiente em infraestrutura como código (Terraform, Ansible, Vagrant, Puppet).
+Proficiente em infraestrutura como código (Terraform, Ansible, Vagrant, Puppet).<br>
 Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenkins, SonarQube).
 
 **Administração de Sistemas e Redes:**
@@ -194,7 +194,7 @@ Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede W
 
 **Bancos de Dados e Linguagens:**
 
-Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).
+Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).<br>
 Conhecimento avançado em linguagens de marcação (HTML5, CSS3) e programação.
 
 **Segurança e Monitoramento:**
@@ -204,7 +204,7 @@ Monitoramento e rastreamento através de ferramentas como Zabbix, Grafana, Elast
 
 **Comunicação e Colaboração:**
 
-Habilidades avançadas em acesso remoto (MobaXterm, Bitvise, Putty SSH).
+Habilidades avançadas em acesso remoto (MobaXterm, Bitvise, Putty SSH).<br>
 Facilidade em comunicação e colaboração, evidenciada por meu perfil no LinkedIn e GitHub.
 
 Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
