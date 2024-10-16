@@ -166,7 +166,7 @@
 
 **Qualificação Profissional**
 
-Sou um profissional altamente capacitado com mais de 10 anos de experiência em TI, especializado em infraestrutura, virtualização de servidores e implementação de soluções baseadas em nuvem.<br>
+Sou um profissional altamente capacitado com mais de 12 anos de experiência em TI, especializado em infraestrutura, virtualização de servidores e implementação de soluções baseadas em nuvem.<br>
 
 Minha expertise abrange desde a análise de incidentes conforme as práticas ITIL até o desenvolvimento e aprimoramento de infraestruturas complexas. 
 
@@ -209,7 +209,7 @@ Monitoramento e rastreamento através de ferramentas como Zabbix, Grafana, Elast
 Habilidades avançadas em acesso remoto (MobaXterm, Bitvise, Putty SSH).<br>
 Facilidade em comunicação e colaboração, evidenciada por meu perfil no LinkedIn e GitHub.
 
-Tenho mais de 10 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
+Tenho mais de 12 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
 ✅ **SRE** [ TIVIT - Cliente; Petrobras ]     
 ✅ **DevOps** [ TelTec Solutions - Clientes; Grupo Madero, BRMALLS, Azul ... ]     
