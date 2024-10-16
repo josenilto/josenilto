@@ -177,6 +177,8 @@ Especialista em migração de cargas de trabalho entre diferentes ambientes e se
 [microsoftazure]: https://azure.microsoft.com/pt-br
 [googlecloud]: https://cloud.google.com   
 
+<br>
+
 **Planejamento Estratégico em TI:**
 
 Estratégias eficazes para tomada de decisão, gerenciamento de custos e desligamento de recursos.<br>
