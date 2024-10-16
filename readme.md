@@ -188,8 +188,8 @@ Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenk
 
 **Administração de Sistemas e Redes:**
 
-Expertise em administração de servidores Web (Apache, Jboss, Tomcat, NginX, IIS).
-Fluência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, JavaScript).
+Expertise em administração de servidores Web (Apache, Jboss, Tomcat, NginX, IIS).<br>
+Fluência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, JavaScript).<br>
 Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.
 
 **Bancos de Dados e Linguagens:**
@@ -199,7 +199,7 @@ Conhecimento avançado em linguagens de marcação (HTML5, CSS3) e programação
 
 **Segurança e Monitoramento:**
 
-Implementação de medidas de segurança eficazes.
+Implementação de medidas de segurança eficazes.<br>
 Monitoramento e rastreamento através de ferramentas como Zabbix, Grafana, Elastic, New Relic, Kibana.
 
 **Comunicação e Colaboração:**
