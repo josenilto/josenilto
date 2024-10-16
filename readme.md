@@ -166,10 +166,7 @@
 
 **Qualificação Profissional**
 
-Sou um profissional altamente capacitado com mais de 10 anos de experiência em TI, especializado em infraestrutura, virtualização de servidores e implementação de soluções baseadas em nuvem.
-
-<br>
-<br>
+Sou um profissional altamente capacitado com mais de 10 anos de experiência em TI, especializado em infraestrutura, virtualização de servidores e implementação de soluções baseadas em nuvem.<br>
 
 Minha expertise abrange desde a análise de incidentes conforme as práticas ITIL até o desenvolvimento e aprimoramento de infraestruturas complexas. 
 
