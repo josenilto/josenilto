@@ -212,13 +212,13 @@ Facilidade em comunicação e colaboração, evidenciada por meu perfil no Linke
 
 Tenho mais de 12 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
 
-✅ **SRE** [ TIVIT - Cliente; Petrobras ]     
-✅ **DevOps** [ TelTec Solutions - Clientes; Grupo Madero, BRMALLS, Azul ... ]     
+✅ **SRE** [ TIVIT - Cliente; **Petrobras** ]     
+✅ **DevOps** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]     
 ✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]     
 ✅ **Arquiteto Cloud / DevOps** [ Grupo Madero ]     
 ✅ Analista Cloud  [ Linx - Projetos chaordic ]    
-✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; ANP - Projeto APPs ]    
-✅ Analista Multiplataforma Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; Caixa Econômica Federal ] 
+✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; **ANP - Projeto APPs** ]    
+✅ Analista Multiplataforma Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; **Caixa Econômica Federal** ] 
 
 ✅ Analista de Implantação [ Ferragens Ramada ] [ Cam Tecnologia - Cliente; RNP, Ferragens Ramada ... ]    
 
