@@ -225,4 +225,4 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [websiteusuporte]: https://www.usuporte.com.br
 [websitehubdocker]: https://hub.docker.com/u/josenilto
 [websitejoseniltogit]:https://josenilto.github.io/
-[websitejoseniltogitlab]:https://josenilto.github.io/
+[websitejoseniltogitlab]:https://gitlab.com/josenilto
