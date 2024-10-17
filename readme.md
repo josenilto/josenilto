@@ -15,13 +15,13 @@
 
 Sou um profissional altamente capacitado com mais de 12 anos de experiência em TI, especializado em infraestrutura, virtualização de servidores e implementação de soluções baseadas em nuvem.<br>
 
-Minha expertise abrange desde a análise de incidentes conforme as práticas ITIL até o desenvolvimento e aprimoramento de infraestruturas complexas. 
+Minha expertise abrange desde a análise de incidentes conforme as práticas ITIL até o desenvolvimento e aprimoramento de infraestruturas complexas.
 
 **Principais Competências.**
 
 **Infraestrutura e Serviços em Nuvem:**
 
-Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).<br>
+Experiência extensiva em nuvens privadas (OpenStack, CloudStack, Vmware e Hyper-V) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).<br>
 Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.<br>
 Especialista em migração de cargas de trabalho entre diferentes ambientes e serviços de nuvem.
 <br>
@@ -144,7 +144,6 @@ Monitoramento e rastreamento através de ferramentas como Zabbix, Grafana, Elast
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 [prometheus]: https://prometheus.io/docs/introduction/release-cycle/
-[graylog]: https://www.graylog.org/releases
 <br>
 
 **Comunicação e Colaboração:**
@@ -154,21 +153,21 @@ Facilidade em comunicação e colaboração, evidenciada por meu perfil no Linke
 
 ---
 
-**Experiência comprovada em carteira;** 
+**Experiência comprovada em carteira;**
 
-✅ **SRE / DevOps Engineer** [ TIVIT - Cliente; **Petrobras** ]     
-✅ **DevOps Engineer** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]     
-✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]     
-✅ **Arquiteto Cloud / DevOps Engineer** [ Grupo Madero ]     
-✅ Analista Cloud  [ Linx - Projetos chaordic ]    
-✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; **ANP - Projeto APPs** ]    
-✅ SysAdmin Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; **Caixa Econômica Federal** ] 
+✅ **SRE / DevOps Engineer** [ TIVIT - Cliente; **Petrobras** ]
+✅ **DevOps Engineer** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]
+✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]
+✅ **Arquiteto Cloud / DevOps Engineer** [ Grupo Madero ]
+✅ Analista Cloud  [ Linx - Projetos chaordic ]
+✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; **ANP - Projeto APPs** ]
+✅ SysAdmin Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; **Caixa Econômica Federal** ]
 
-✅ Analista de Implantação [ Ferragens Ramada ] [ Cam Tecnologia - Cliente; RNP, Ferragens Ramada ... ]    
+✅ Analista de Implantação [ Ferragens Ramada ] [ Cam Tecnologia - Cliente; RNP, Ferragens Ramada ... ]
 
-✅ Supervisor Operacional de TI [ Universidade Veiga de Almeida ]    
-✅ Técnico de Informática [ Universidade Veiga de Almeida ]    
-✅ Estagiário de TI [ Universidade Veiga de Almeida ] 
+✅ Supervisor Operacional de TI [ Universidade Veiga de Almeida ]
+✅ Técnico de Informática [ Universidade Veiga de Almeida ]
+✅ Estagiário de TI [ Universidade Veiga de Almeida ]
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.  
 <br>
