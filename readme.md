@@ -152,7 +152,7 @@ Monitoramento e rastreamento através de ferramentas como Zabbix, Grafana, Elast
 Habilidades avançadas em acesso remoto (MobaXterm, Bitvise, Putty SSH).<br>
 Facilidade em comunicação e colaboração, evidenciada por meu perfil no LinkedIn e GitHub.
 
-Tenho mais de 12 anos de experiência em planejamento e melhoria de infraestrutura de TI e desenvolvimento de sites. 
+Experiência comprovada em carteira; 
 
 ✅ **SRE / DevOps Engineer** [ TIVIT - Cliente; **Petrobras** ]     
 ✅ **DevOps Engineer** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]     
