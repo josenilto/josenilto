@@ -1,28 +1,5 @@
 🚀 **Olá me chamo, "Josenilto", Bem vindos ao Git!**
 
-
-<br>
-
-
-👻 **Reference Others**
-
-[<img title="Webmin" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webmin.svg" />][webmin]
-[<img title="PFsense" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pfsense.svg" />][pfsense]
-
-[<img title="Laravel" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />][laravel]
-[<img title="Codeigniter" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codeigniter.svg" />][codeigniter]
-[<img title="Drupal" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/drupal.svg" />][drupal]
-[<img title="WordPress" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][wordpress]
-
-[webmin]: https://www.webmin.com
-[pfsense]: https://www.pfsense.org/download
-
-[laravel]: https://laravel.com/docs/5.5/releases
-[codeigniter]: https://codeigniter.com/download
-[drupal]: https://www.drupal.org/project/drupal/releases
-[wordpress]: https://wordpress.org/download/releases
-
-<br>
 <br>
 
 ---
@@ -193,7 +170,27 @@ Tenho mais de 12 anos de experiência em planejamento e melhoria de infraestrutu
 ✅ Técnico de Informática [ Universidade Veiga de Almeida ]    
 ✅ Estagiário de TI [ Universidade Veiga de Almeida ] 
 
-Gestão de processos, reorganização de serviços, otimização de desempenho.
+Gestão de processos, reorganização de serviços, otimização de desempenho.  
+<br>
+
+👻 **Reference Others**
+
+[<img title="Webmin" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webmin.svg" />][webmin]
+[<img title="PFsense" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pfsense.svg" />][pfsense]
+
+[<img title="Laravel" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />][laravel]
+[<img title="Codeigniter" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codeigniter.svg" />][codeigniter]
+[<img title="Drupal" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/drupal.svg" />][drupal]
+[<img title="WordPress" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][wordpress]
+
+[webmin]: https://www.webmin.com
+[pfsense]: https://www.pfsense.org/download
+
+[laravel]: https://laravel.com/docs/5.5/releases
+[codeigniter]: https://codeigniter.com/download
+[drupal]: https://www.drupal.org/project/drupal/releases
+[wordpress]: https://wordpress.org/download/releases
+<br>
 
 🤙 **Conecte-se comigo**
 
