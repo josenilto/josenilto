@@ -47,7 +47,6 @@ Minha expertise abrange desde a análise de incidentes conforme as práticas ITI
 **Infraestrutura e Serviços em Nuvem:**
 
 Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (Azure, AWS, GCP, IBM, Oracle, RedHat).<br>
-
 Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.<br>
 Especialista em migração de cargas de trabalho entre diferentes ambientes e serviços de nuvem.
 <br>
