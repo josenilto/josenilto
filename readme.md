@@ -17,26 +17,6 @@
 [ubuntu]: https://wiki.ubuntu.com/Releases
 
 <br>
-<br>
-
-
-
-<br>
-
-
-👻 **Reference Services**
-
-[<img title="Apache" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
-[<img title="Apache Hive" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachehive.svg" />][apachehive]
-[<img title="Nginx" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />][nginx]
-
-[apache]: https://httpd.apache.org/dev/release.html
-[apachehive]: http://www.apache.org/dyn/closer.cgi/hive/
-[nginx]: https://nginx.org
-
-<br>
-<br>
-
 
 👻 **Reference Monitoring**
 
@@ -151,6 +131,10 @@ Fluência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, Jav
 Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.
 <br>
 
+[<img title="Apache" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
+[<img title="Apache Hive" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachehive.svg" />][apachehive]
+[<img title="Nginx" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />][nginx]
+
 [<img title="HTML" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
 [<img title="CSS" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
 [<img title="Php" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
@@ -158,6 +142,10 @@ Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede W
 [<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />][bootstrap]
 [<img title="Python" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 [<img title="Gnu Bash" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />][gnubash]
+
+[apache]: https://httpd.apache.org/dev/release.html
+[apachehive]: http://www.apache.org/dyn/closer.cgi/hive/
+[nginx]: https://nginx.org
 
 [html]: https://www.w3.org/2014/10/html5-rec.html.en
 [css]: https://www.w3.org/Style/CSS20/
