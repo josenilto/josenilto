@@ -148,25 +148,7 @@ Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenk
 
 Expertise em administração de servidores Web (Apache, Jboss, Tomcat, NginX, IIS).<br>
 Fluência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, JavaScript).<br>
-Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.
-
-**Bancos de Dados e Linguagens:**
-
-Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).
-<br>
-
-[<img title="SQL Server" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
-[<img title="MySQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
-[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
-[<img title="MongoDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
-
-[microsoftsqlserver]: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
-[mysql]: https://dev.mysql.com/doc/relnotes
-[postgresql]: https://www.postgresql.org/docs/release
-[mongodb]: https://docs.mongodb.com/manual/release-notes
-<br>
-
-Conhecimento avançado em linguagens de marcação (HTML5, CSS3) e programação.
+Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.  
 <br>
 
 [<img title="HTML" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
@@ -184,6 +166,22 @@ Conhecimento avançado em linguagens de marcação (HTML5, CSS3) e programação
 [bootstrap]: https://getbootstrap.com/docs/versions
 [python]: https://www.python.org/downloads
 [gnubash]: https://www.gnu.org/software/bash/manual/bash.html
+<br>
+
+**Bancos de Dados:**
+
+Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).
+<br>
+
+[<img title="SQL Server" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
+[<img title="MySQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
+[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
+[<img title="MongoDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
+
+[microsoftsqlserver]: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
+[mysql]: https://dev.mysql.com/doc/relnotes
+[postgresql]: https://www.postgresql.org/docs/release
+[mongodb]: https://docs.mongodb.com/manual/release-notes
 <br>
 
 **Segurança e Monitoramento:**
