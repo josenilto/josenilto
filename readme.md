@@ -1,22 +1,6 @@
-🚀 **BEM-VINDOS!**
+🚀 **Olá me chamo, "Josenilto", Bem vindos ao Git!**
 
-👻 **Reference Operating System**
 
-[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
-[<img title="CentOs" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
-[<img title="Debian" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
-[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
-[<img title="Windows" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
-
-[docker]: https://www.docker.com
-[kubernetes]: https://kubernetes.io
-[windows]: https://docs.microsoft.com/en-us/windows/release-information
-[redhat]: https://access.redhat.com/articles/3078
-[debian]: https://www.debian.org/releases
-[centos]: https://www.centos.org/download
-[ubuntu]: https://wiki.ubuntu.com/Releases
-
-<br>
 <br>
 
 
@@ -43,7 +27,7 @@
 
 ---
 
-📝 **GitHub Pages - Curriculum | Josenilto L Silva**
+📝 **Segue abaixo uma pequena apresentação:**
 
 **Formação Acadêmica**
 
@@ -85,6 +69,20 @@ Experiência em computação sob demanda e arquitetura de micro serviços.
 
 [<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
 [<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
+
+[<img title="Red Hat" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
+[<img title="CentOs" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/centos.svg" />][centos]
+[<img title="Debian" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/debian.svg" />][debian]
+[<img title="Ubuntu" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ubuntu.svg" />][ubuntu]
+[<img title="Windows" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][windows]
+
+[docker]: https://www.docker.com
+[kubernetes]: https://kubernetes.io
+[windows]: https://docs.microsoft.com/en-us/windows/release-information
+[redhat]: https://access.redhat.com/articles/3078
+[debian]: https://www.debian.org/releases
+[centos]: https://www.centos.org/download
+[ubuntu]: https://wiki.ubuntu.com/Releases
 <br>
 
 **Automação e DevOps:**
