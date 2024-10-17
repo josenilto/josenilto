@@ -38,44 +38,6 @@
 <br>
 
 
-👻 **Reference Languages**
-
-[<img title="HTML" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
-[<img title="CSS" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
-[<img title="Php" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
-[<img title="Java" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />][java]
-[<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />][bootstrap]
-[<img title="Python" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
-[<img title="Gnu Bash" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />][gnubash]
-
-[html]: https://www.w3.org/2014/10/html5-rec.html.en
-[css]: https://www.w3.org/Style/CSS20/
-[php]: https://www.php.net/releases/index.php
-[java]: https://www.oracle.com/java/technologies/javase-downloads.html
-[bootstrap]: https://getbootstrap.com/docs/versions
-[python]: https://www.python.org/downloads
-[gnubash]: https://www.gnu.org/software/bash/manual/bash.html
-
-<br>
-<br>
-
-
-👻 **Reference Database**
-
-[<img title="Microsoft SQL Server" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
-[<img title="MySQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
-[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
-[<img title="mongoDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
-
-[microsoftsqlserver]: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
-[mysql]: https://dev.mysql.com/doc/relnotes
-[postgresql]: https://www.postgresql.org/docs/release
-[mongodb]: https://docs.mongodb.com/manual/release-notes
-
-<br>
-<br>
-
-
 👻 **Reference Monitoring**
 
 [<img title="Grafana" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
@@ -190,8 +152,39 @@ Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede W
 
 **Bancos de Dados e Linguagens:**
 
-Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).<br>
+Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, PostgreSQL, MongoDB, Oracle (ETL, PLSQL).
+<br>
+
+[<img title="Microsoft SQL Server" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
+[<img title="MySQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
+[<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
+[<img title="mongoDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
+
+[microsoftsqlserver]: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
+[mysql]: https://dev.mysql.com/doc/relnotes
+[postgresql]: https://www.postgresql.org/docs/release
+[mongodb]: https://docs.mongodb.com/manual/release-notes
+<br>
+
 Conhecimento avançado em linguagens de marcação (HTML5, CSS3) e programação.
+<br>
+
+[<img title="HTML" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
+[<img title="CSS" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
+[<img title="Php" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />][php]
+[<img title="Java" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />][java]
+[<img title="Bootstrap" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />][bootstrap]
+[<img title="Python" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
+[<img title="Gnu Bash" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />][gnubash]
+
+[html]: https://www.w3.org/2014/10/html5-rec.html.en
+[css]: https://www.w3.org/Style/CSS20/
+[php]: https://www.php.net/releases/index.php
+[java]: https://www.oracle.com/java/technologies/javase-downloads.html
+[bootstrap]: https://getbootstrap.com/docs/versions
+[python]: https://www.python.org/downloads
+[gnubash]: https://www.gnu.org/software/bash/manual/bash.html
+<br>
 
 **Segurança e Monitoramento:**
 
