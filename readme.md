@@ -175,8 +175,7 @@ Especialista em migração de cargas de trabalho entre diferentes ambientes e se
 
 [amazon]: https://aws.amazon.com/pt
 [microsoftazure]: https://azure.microsoft.com/pt-br
-[googlecloud]: https://cloud.google.com   
-
+[googlecloud]: https://cloud.google.com  
 <br>
 
 **Planejamento Estratégico em TI:**
