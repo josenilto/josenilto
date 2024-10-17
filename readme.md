@@ -62,7 +62,7 @@ Experiência em computação sob demanda e arquitetura de micro serviços.
 **Automação e DevOps:**
 
 Proficiente em infraestrutura como código (Terraform, Ansible, Vagrant, Puppet).<br>
-Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenkins, SonarQube).
+Conhecimento sólido em conceitos de CI/CD (gitlab, github, bitbucket, Jenkins, SonarQube).
 <br>
 
 [<img title="Terraform: automatize a infraestrutura na nuvem" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
