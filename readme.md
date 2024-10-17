@@ -204,9 +204,9 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img title="Usuporte" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][websiteusuporte]
 
-[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]
+[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />]<br>[websitejosenilto]
 
-[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=https://josenilto.github.io&style=for-the-badge&url=https://josenilto.github.io" />][websitejoseniltogit]
+[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.github.io&style=for-the-badge&url=https://josenilto.github.io" />][websitejoseniltogit]<br>
 
 [<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=hub.docker.com/u/josenilto&style=for-the-badge&url=https://hub.docker.com/u/josenilto" />][websitehubdocker]
 
