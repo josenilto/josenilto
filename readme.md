@@ -20,27 +20,7 @@
 <br>
 
 
-👻 **Reference Provisioning & Deploy**
 
-[<img title="Terraform: automatize a infraestrutura na nuvem" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
-[<img title="Ansible" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
-[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
-[<img title="Github" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
-[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
-[<img title="Vagrant" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
-[<img title="Puppet" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/puppet.svg" />][puppet]
-[<img title="Harbor" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/harbor.svg" />][harbor]
-
-[vagrant]: https://www.vagrantup.com/downloads.html
-[ansible]: https://docs.ansible.com/ansible/latest/index.html
-[terraform]: https://www.terraform.io/downloads.html
-[jenkins]: https://www.jenkins.io
-[github]: https://github.com
-[sonarqube]: https://www.sonarqube.org/downloads
-[puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
-[harbor]: https://goharbor.io
-
-<br>
 <br>
 
 
@@ -180,7 +160,27 @@ Experiência em computação sob demanda e arquitetura de micro serviços.
 **Automação e DevOps:**
 
 Proficiente em infraestrutura como código (Terraform, Ansible, Vagrant, Puppet).<br>
-Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenkins, SonarQube).
+Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenkins, SonarQube).  
+<br>
+
+[<img title="Terraform: automatize a infraestrutura na nuvem" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
+[<img title="Ansible" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
+[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
+[<img title="Github" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
+[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
+[<img title="Vagrant" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
+[<img title="Puppet" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/puppet.svg" />][puppet]
+[<img title="Harbor" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/harbor.svg" />][harbor]
+
+[vagrant]: https://www.vagrantup.com/downloads.html
+[ansible]: https://docs.ansible.com/ansible/latest/index.html
+[terraform]: https://www.terraform.io/downloads.html
+[jenkins]: https://www.jenkins.io
+[github]: https://github.com
+[sonarqube]: https://www.sonarqube.org/downloads
+[puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
+[harbor]: https://goharbor.io
+<br>
 
 **Administração de Sistemas e Redes:**
 
