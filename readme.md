@@ -155,18 +155,18 @@ Facilidade em comunicação e colaboração, evidenciada por meu perfil no Linke
 
 **Experiência comprovada em carteira;**
 
-✅ **SRE / DevOps Engineer** [ TIVIT - Cliente; **Petrobras** ]
-✅ **DevOps Engineer** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]
-✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]
-✅ **Arquiteto Cloud / DevOps Engineer** [ Grupo Madero ]
-✅ Analista Cloud  [ Linx - Projetos chaordic ]
-✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; **ANP - Projeto APPs** ]
-✅ SysAdmin Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; **Caixa Econômica Federal** ]
+✅ **SRE / DevOps Engineer** [ TIVIT - Cliente; **Petrobras** ]  
+✅ **DevOps Engineer** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]  
+✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]  
+✅ **Arquiteto Cloud / DevOps Engineer** [ Grupo Madero ]  
+✅ Analista Cloud  [ Linx - Projetos chaordic ]  
+✅ Analista Infraestrutura [ Stefanini LATAM ] [ CTCTech - Cliente; **ANP - Projeto APPs** ]  
+✅ SysAdmin Operacional, On-Premise e Cloud [ G&P e GlobalHitss - Cliente; **Caixa Econômica Federal** ]  
 
 ✅ Analista de Implantação [ Ferragens Ramada ] [ Cam Tecnologia - Cliente; RNP, Ferragens Ramada ... ]
 
-✅ Supervisor Operacional de TI [ Universidade Veiga de Almeida ]
-✅ Técnico de Informática [ Universidade Veiga de Almeida ]
+✅ Supervisor Operacional de TI [ Universidade Veiga de Almeida ]  
+✅ Técnico de Informática [ Universidade Veiga de Almeida ]  
 ✅ Estagiário de TI [ Universidade Veiga de Almeida ]
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.  
