@@ -1,16 +1,5 @@
 🚀 **BEM-VINDOS!**
 
-
-<br>
-
-👻 **Reference Microservices**
-
-[<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
-[<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
-
-<br>
-<br>
-
 👻 **Reference Operating System**
 
 [<img title="Red Hat" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/redhat.svg" />][redhat]
@@ -159,7 +148,7 @@ Sou um profissional altamente capacitado com mais de 12 anos de experiência em 
 
 Minha expertise abrange desde a análise de incidentes conforme as práticas ITIL até o desenvolvimento e aprimoramento de infraestruturas complexas. 
 
-**Principais Competências**
+**Principais Competências.**
 
 **Infraestrutura e Serviços em Nuvem:**
 
@@ -168,7 +157,6 @@ Experiência extensiva em nuvens privadas (OpenStack, CloudStack) e públicas (A
 Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e na nuvem.<br>
 Especialista em migração de cargas de trabalho entre diferentes ambientes e serviços de nuvem.
 <br>
-
 [<img title="Amazon" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
 [<img title="Google Cloud" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />][googlecloud]
@@ -182,6 +170,10 @@ Especialista em migração de cargas de trabalho entre diferentes ambientes e se
 
 Estratégias eficazes para tomada de decisão, gerenciamento de custos e desligamento de recursos.<br>
 Experiência em computação sob demanda e arquitetura de micro serviços.
+<br>
+[<img title="Kubernetes: Orquestração de containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
+[<img title="Docker: criando e gerenciando containers" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
+<br>
 
 **Automação e DevOps:**
 
