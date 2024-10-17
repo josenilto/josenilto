@@ -170,7 +170,6 @@ Facilidade em comunicação e colaboração, evidenciada por meu perfil no Linke
 
 Gestão de processos, reorganização de serviços, otimização de desempenho.  
 <br>
-
 👻 **Reference Others**
 
 [<img title="Webmin" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webmin.svg" />][webmin]
