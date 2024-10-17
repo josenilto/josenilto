@@ -67,11 +67,15 @@ Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenk
 
 [<img title="Terraform: automatize a infraestrutura na nuvem" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
 [<img title="Ansible" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
-[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
-[<img title="Github" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
-[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
 [<img title="Vagrant" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vagrant.svg" />][vagrant]
 [<img title="Puppet" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/puppet.svg" />][puppet]
+
+[<img title="Gitlab" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" />][gitlab]
+[<img title="Github" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
+[<img title="Bitbucket" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][bitbucket]
+[<img title="Jenkins" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
+[<img title="SonarQube" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
+
 [<img title="Harbor" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/harbor.svg" />][harbor]
 
 [vagrant]: https://www.vagrantup.com/downloads.html
@@ -82,6 +86,8 @@ Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenk
 [sonarqube]: https://www.sonarqube.org/downloads
 [puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
 [harbor]: https://goharbor.io
+[bitbucket]: https://bitbucket.org
+[gitlab]: https://about.gitlab.com
 <br>
 
 **Administração de Sistemas e Redes:**
