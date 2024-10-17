@@ -148,7 +148,7 @@ Conhecimento sólido em conceitos de CI/CD (svn, gitlab, github, bitbucket, Jenk
 
 Expertise em administração de servidores Web (Apache, Jboss, Tomcat, NginX, IIS).<br>
 Fluência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, JavaScript).<br>
-Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.  
+Proficiência em protocolos e topologias de rede TCP/IP, diagnósticos de rede WAN/LAN, VPN, entre outros.
 <br>
 
 [<img title="HTML" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
