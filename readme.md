@@ -125,7 +125,7 @@ Competência em consultas e manipulação de bancos de dados SQL Server, MySQL, 
 [<img title="MySQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
 [<img title="PostgreSQL" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/postgresql.svg" />][postgresql]
 [<img title="MongoDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mongodb.svg" />][mongodb]
-[<img title="OracleDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />][oracle]
+[<img title="OracleDB" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />][oracledb]
 
 [microsoftsqlserver]: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads
 [mysql]: https://dev.mysql.com/doc/relnotes
