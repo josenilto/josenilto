@@ -1,7 +1,5 @@
 🚀 **Olá me chamo, "Josenilto", Bem vindos ao Git!**
 
-<br>
-
 ---
 
 📝 **Segue abaixo uma pequena apresentação:**
