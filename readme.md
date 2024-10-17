@@ -201,6 +201,7 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 🤙 **Conecte-se comigo**
 
 [<img title="WhatsApp" align="left" alt="josenilto | Twitter" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
+
 [<img title="Linkedin" align="left" alt="josenilto | LinkedIn" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
 <br>
