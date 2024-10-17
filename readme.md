@@ -1,7 +1,5 @@
 # Olá, eu sou o "Josenilto" 👋, Bem vindos ao meu Git!** 🚀 
 
----
-
 📝 **Segue abaixo uma pequena apresentação:**
 
 **Formação Acadêmica**
