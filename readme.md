@@ -210,9 +210,9 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 [<img title="Usuporte" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=usuporte.com.br&style=for-the-badge&url=https://usuporte.com.br" />][websiteusuporte]
 
-[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]<br>
+[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.eti.br&style=for-the-badge&url=https://josenilto.eti.br" />][websitejosenilto]
 
-[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=gitlab.com/josenilto&style=for-the-badge&url=https://gitlab.com/josenilto" />][websitejoseniltogitlab]
+[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=gitlab.com/josenilto&style=for-the-badge&url=https://gitlab.com/josenilto" />][websitejoseniltogitlab] <br>
 
 [<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.github.io&style=for-the-badge&url=https://josenilto.github.io" />][websitejoseniltogit]
 
