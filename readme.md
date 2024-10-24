@@ -218,10 +218,13 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 
 [<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=hub.docker.com/u/josenilto&style=for-the-badge&url=https://hub.docker.com/u/josenilto" />][websitehubdocker]
 
+[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://aguasdorio.com.br/comunicados&style=for-the-badge&url=https://aguasdorio.com.br/comunicados />][aguadoriocomunicado]
+
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%20bem-vindo!%20Ao%20whatsapp%20do%20Josenilto
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 [websitejosenilto]: https://www.josenilto.eti.br
 [websiteusuporte]: https://www.usuporte.com.br
 [websitehubdocker]: https://hub.docker.com/u/josenilto
+[aguadoriocomunicado]: https://aguasdorio.com.br/comunicados
 [websitejoseniltogit]:https://josenilto.github.io/
 [websitejoseniltogitlab]:https://gitlab.com/josenilto
