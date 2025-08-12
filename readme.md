@@ -161,6 +161,7 @@ Facilidade em comunicação e colaboração, evidenciada por meu perfil no Linke
 
 **Experiência comprovada em carteira;**
 
+✅ **Especialista em Arquiteto DevOps Engineer** [ **Grupo Profarma** ]  
 ✅ **SRE / DevOps Engineer** [ TIVIT - Cliente; **Petrobras** ]  
 ✅ **DevOps Engineer** [ TelTec Solutions - Clientes; **Grupo Madero**, BRMALLS, VoeAzul, VoeGol, ... ]  
 ✅ **DevSecOps** [ Monitora - Cliente; Serasa Experian ]  
