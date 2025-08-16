@@ -209,9 +209,6 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 **Monitoração GitHub**
 <br>
 
-
-[<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=gitlab.com/josenilto&style=for-the-badge&url=https://gitlab.com/josenilto" />][websitejoseniltogitlab] <br>
-
 [<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=josenilto.github.io&style=for-the-badge&url=https://josenilto.github.io" />][websitejoseniltogit]
 
 [<img title="Josenilto" align="left" alt="josenilto | Site" height="25px" src="https://img.shields.io/website?label=hub.docker.com/u/josenilto&style=for-the-badge&url=https://hub.docker.com/u/josenilto" />][websitehubdocker]
@@ -224,5 +221,4 @@ Gestão de processos, reorganização de serviços, otimização de desempenho.
 [websitehubdocker]: https://hub.docker.com/u/josenilto
 [aguadoriocomunicado]: https://aguasdorio.com.br/comunicados
 [websitejoseniltogit]:https://josenilto.github.io/
-[websitejoseniltogitlab]:https://gitlab.com/josenilto
 [websiteaguadoriocomunicado]:https://aguasdorio.com.br/comunicados
