@@ -5,7 +5,7 @@
 **Formação Acadêmica**
 
 - [ ] Instituto Militar de Engenharia, IME - Mestrado, em Sistema da Informação | *Cursando*
-- [ ] Universidade Estácio de Sá, UNESA - Pós-Graduação, em Arquitetura e Projetos de Cloud computing | *Cursando*  
+- [x] Universidade Estácio de Sá, UNESA - Pós-Graduação, em Arquitetura e Projetos de Cloud computing | *15/12/2025*  
 - [x] Universidade Estácio de Sá, UNESA - Bacharelado, em Sistema da Informação | **Superior Completo* *20/03/2024**  
 - [x] Universidade Veiga de Almeida, UVA - Bacharelado, em Ciência da Computação | **Superior Completo* *23/08/2019**
 
