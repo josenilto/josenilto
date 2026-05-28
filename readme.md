@@ -11,9 +11,21 @@
 
 ---
 
-## Perfil Profissional
+## Apresentação Executiva
 
-Profissional com mais de 12 anos de experiência em Tecnologia da Informação, especializado em infraestrutura, virtualização de servidores e implementação de soluções em nuvem. Atuação abrange desde a análise e tratamento de incidentes com base nas práticas ITIL até o projeto e otimização de infraestruturas complexas em ambientes híbridos e multi-cloud.
+Arquiteto Cloud & DevOps Engineer com mais de **12 anos de experiência** em Tecnologia da Informação, com histórico comprovado de liderança técnica em projetos de alta complexidade para grandes corporações nos setores de energia, financeiro, varejo e saúde.
+
+Especialista na concepção, implantação e otimização de plataformas de infraestrutura em ambientes **híbridos e multi-cloud** (AWS, Azure, GCP, Oracle Cloud, IBM Cloud), com foco em resiliência, escalabilidade e redução de custos operacionais. Atua com profundidade em toda a cadeia de entrega de software — do provisionamento de infraestrutura como código à automação de pipelines CI/CD e governança de plataformas em produção.
+
+Possui sólida experiência em **SRE (Site Reliability Engineering)**, aplicando princípios de confiabilidade, observabilidade e gestão de incidentes em ambientes críticos, com adoção de práticas ITIL e cultura DevSecOps. Capacidade de traduzir demandas de negócio em arquiteturas técnicas sustentáveis, liderando equipes multidisciplinares e interagindo diretamente com stakeholders estratégicos.
+
+**Principais entregas ao longo da carreira:**
+
+- Arquitetura e migração de plataformas críticas para ambientes cloud em empresas como Petrobras, Serasa Experian, Grupo Madero e Caixa Econômica Federal.
+- Implementação de estratégias de observabilidade ponta a ponta com Grafana, Prometheus, Elastic Stack e New Relic.
+- Estruturação de pipelines DevSecOps com controle de qualidade de código, análise de vulnerabilidades e entrega contínua.
+- Gestão de infraestrutura de alta disponibilidade com Kubernetes, Docker e plataformas de orquestração em escala.
+- Redução de time-to-market através da automação de ambientes com Terraform, Ansible e ferramentas de IaC.
 
 ---
 
@@ -144,6 +156,8 @@ Implementação de políticas e medidas de segurança em ambientes on-premises e
 
 ### Outras Tecnologias
 
+Experiência complementar em administração de redes e firewall com **Webmin** e **pfSense**, além de desenvolvimento e manutenção de aplicações web utilizando os frameworks **Laravel** e **CodeIgniter** (PHP). Administração e customização de plataformas de gerenciamento de conteúdo como **Drupal** e **WordPress**, aplicadas em projetos de portais corporativos e intranets.
+
 [<img title="Webmin" align="left" alt="Webmin" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webmin.svg" />][webmin]
 [<img title="pfSense" align="left" alt="pfSense" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pfsense.svg" />][pfsense]
 
@@ -158,6 +172,8 @@ Implementação de políticas e medidas de segurança em ambientes on-premises e
 [codeigniter]: https://codeigniter.com/download
 [drupal]: https://www.drupal.org/project/drupal/releases
 [wordpress]: https://wordpress.org/download/releases
+
+<br><br>
 
 ---
 
