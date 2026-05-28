@@ -11,7 +11,7 @@
 
 ---
 
-## Apresentação Executiva
+## Sobre Mim
 
 Arquiteto Cloud & DevOps Engineer com mais de **12 anos de experiência** em Tecnologia da Informação, com histórico comprovado de liderança técnica em projetos de alta complexidade para grandes corporações nos setores de energia, financeiro, varejo e saúde.
 
@@ -29,11 +29,11 @@ Possui sólida experiência em **SRE (Site Reliability Engineering)**, aplicando
 
 ---
 
-## Competências Técnicas
+## Engineering Skills
 
 ### Plataforma de Infraestrutura Cloud
 
-Experiência sólida em nuvens privadas (OpenStack, CloudStack, VMware e Hyper-V) e públicas (Azure, AWS, GCP, IBM Cloud, Oracle Cloud e Red Hat OpenShift). Garantia de disponibilidade, escalabilidade e desempenho em ambientes on-premises e cloud. Especialista em migração de cargas de trabalho entre diferentes plataformas e provedores.
+Liderança técnica na arquitetura e operação de plataformas de infraestrutura em ambientes **multi-cloud e híbridos**, integrando provedores públicos (AWS, Azure, GCP, IBM Cloud, Oracle Cloud e Red Hat OpenShift) com nuvens privadas (OpenStack, CloudStack, VMware e Hyper-V). Atuação estratégica na definição de modelos de governança cloud, otimização de custos (FinOps), garantia de SLA e condução de projetos de migração de workloads críticos entre plataformas — com foco em continuidade de negócio, resiliência e eficiência operacional.
 
 [<img title="Amazon Web Services" align="left" alt="Amazon Web Services" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="Microsoft Azure" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
@@ -46,7 +46,7 @@ Experiência sólida em nuvens privadas (OpenStack, CloudStack, VMware e Hyper-V
 
 ### Roadmap Estratégico de Tecnologia
 
-Definição de estratégias para tomada de decisão, gerenciamento de custos e governança de recursos. Experiência em computação sob demanda e arquitetura de microsserviços.
+Capacidade de alinhar decisões técnicas às metas do negócio, conduzindo a priorização de investimentos em tecnologia com foco em eficiência operacional, redução de custos e evolução sustentável da plataforma. Experiência na definição de roadmaps de modernização de infraestrutura, adoção de arquiteturas de microsserviços e computação sob demanda — viabilizando escalabilidade elástica e time-to-market mais ágil. Atuação direta na governança de recursos cloud, com práticas de FinOps para controle e otimização de custos em ambientes de grande escala.
 
 [<img title="Kubernetes" align="left" alt="Kubernetes" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kubernetes.svg" />][kubernetes]
 [<img title="Docker" align="left" alt="Docker" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/docker.svg" />][docker]
@@ -68,7 +68,9 @@ Definição de estratégias para tomada de decisão, gerenciamento de custos e g
 
 ### DevOps e Automação de Plataformas
 
-Proficiente em Infraestrutura como Código (Terraform, Ansible, Vagrant, Puppet). Conhecimento sólido em pipelines de CI/CD com GitLab CI, GitHub Actions, Bitbucket Pipelines, Jenkins e SonarQube.
+Liderança técnica na adoção e consolidação de práticas DevOps com foco em aceleração do ciclo de entrega, padronização de ambientes e redução de risco operacional. Expertise comprovada em **Infraestrutura como Código (IaC)** com Terraform, Ansible, Puppet e Vagrant — garantindo ambientes reproduzíveis, auditáveis e versionados em escala.
+
+Responsável pela arquitetura e operação de **pipelines CI/CD de ponta a ponta** com GitLab CI, GitHub Actions, Bitbucket Pipelines e Jenkins, integrando análise estática de código e verificação de vulnerabilidades via SonarQube. Gestão de registros privados de imagens com Harbor, assegurando rastreabilidade e conformidade no ciclo de vida de containers.
 
 [<img title="Terraform" align="left" alt="Terraform" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />][terraform]
 [<img title="Ansible" align="left" alt="Ansible" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ansible.svg" />][ansible]
@@ -97,7 +99,9 @@ Proficiente em Infraestrutura como Código (Terraform, Ansible, Vagrant, Puppet)
 
 ### Gestão de Sistemas e Redes
 
-Expertise em administração de servidores Web (Apache, JBoss, Tomcat, Nginx, IIS). Proficiência em linguagens de programação (Python, Ruby, PHP, Perl/CGI, Java, JavaScript) e em protocolos e topologias de rede — TCP/IP, WAN/LAN, VPN e análise de diagnósticos.
+Gestão estratégica de ambientes de servidores de aplicação e infraestrutura de rede em larga escala, com domínio sobre stacks Web de alta disponibilidade — Apache, JBoss, Tomcat, Nginx e IIS. Capacidade de diagnóstico e resolução de problemas em topologias complexas de rede, cobrindo protocolos TCP/IP, conectividade WAN/LAN, tunelamento VPN e análise de tráfego.
+
+Visão full-stack aplicada à operação de plataformas: proficiência em linguagens de script e automação (Python, Bash, Perl/CGI) e desenvolvimento de soluções sob demanda (PHP, Java, JavaScript, Ruby), permitindo atuação técnica transversal entre infraestrutura, desenvolvimento e operações.
 
 [<img title="Apache HTTP Server" align="left" alt="Apache HTTP Server" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
 [<img title="Apache Hive" align="left" alt="Apache Hive" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachehive.svg" />][apachehive]
@@ -126,7 +130,7 @@ Expertise em administração de servidores Web (Apache, JBoss, Tomcat, Nginx, II
 
 ### Plataforma de Dados
 
-Competência em consultas e manipulação de bancos de dados relacionais e não relacionais: SQL Server, MySQL, PostgreSQL, MongoDB e Oracle (ETL, PL/SQL).
+Experiência na gestão e operação de plataformas de dados em ambientes corporativos de alta demanda, abrangendo bancos relacionais (**SQL Server, MySQL, PostgreSQL, Oracle**) e não relacionais (**MongoDB**). Atuação em processos de ETL, modelagem de dados e otimização de performance em cenários críticos de negócio. Capacidade de integrar camadas de dados a arquiteturas de microsserviços e pipelines de dados em ambientes cloud e on-premises, garantindo disponibilidade, integridade e governança das informações.
 
 [<img title="Microsoft SQL Server" align="left" alt="Microsoft SQL Server" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftsqlserver.svg" />][microsoftsqlserver]
 [<img title="MySQL" align="left" alt="MySQL" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" />][mysql]
@@ -143,7 +147,9 @@ Competência em consultas e manipulação de bancos de dados relacionais e não 
 
 ### Observabilidade e Segurança de Plataforma
 
-Implementação de políticas e medidas de segurança em ambientes on-premises e cloud. Monitoramento e observabilidade com Zabbix, Grafana, Elastic Stack (ELK), New Relic e Kibana.
+Atuação estratégica na concepção e implementação de arquiteturas de observabilidade ponta a ponta, garantindo visibilidade total sobre o comportamento de aplicações, infraestrutura e pipelines em ambientes produtivos. Estruturação de stacks de monitoramento com **Grafana**, **Prometheus**, **Elastic Stack (ELK)**, **Graylog**, **Zabbix**, **New Relic** e **Kibana**, com definição de SLIs, SLOs e políticas de alertas orientadas a negócio.
+
+Na frente de segurança, responsável pela implementação de práticas **DevSecOps** — integração de análise de vulnerabilidades no pipeline CI/CD, gestão de políticas de acesso e conformidade em ambientes multi-cloud, hardening de sistemas operacionais e adoção de frameworks de segurança alinhados às melhores práticas do mercado.
 
 [<img title="Grafana" align="left" alt="Grafana" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
 [<img title="Prometheus" align="left" alt="Prometheus" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" />][prometheus]
