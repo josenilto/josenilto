@@ -199,7 +199,7 @@ Experiência complementar em administração de redes e firewall com **Webmin** 
 | Analista de Implantação | Ferragens Ramada |
 | Analista de Implantação | Cam Tecnologia — Clientes: RNP, Ferragens Ramada |
 | Supervisor Operacional de TI | Universidade Veiga de Almeida |
-| Analista de Informática | Universidade Veiga de Almeida |
+| Analista de redes | Universidade Veiga de Almeida |
 | Estagiário de TI | Universidade Veiga de Almeida |
 
 ---
