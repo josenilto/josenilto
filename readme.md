@@ -4,10 +4,10 @@
 
 | Instituição | Grau | Conclusão |
 | --- | --- | --- |
-| Instituto Militar de Engenharia — IME | Mestrado em Sistemas de Informação | Em andamento |
-| Universidade Estácio de Sá — UNESA | Pós-Graduação em Arquitetura e Projetos de Cloud Computing | Dez/2025 |
-| Universidade Estácio de Sá — UNESA | Bacharelado em Sistemas de Informação | Mar/2024 |
-| Universidade Veiga de Almeida — UVA | Bacharelado em Ciência da Computação | Ago/2019 |
+| IME — Instituto Militar de Engenharia | Mestrado em Sistemas de Informação | Em andamento |
+| UNESA — Universidade Estácio de Sá | Pós-Graduação em Arquitetura e Projetos de Cloud Computing | Dez/2025 |
+| UNESA — Universidade Estácio de Sá | Bacharelado em Sistemas de Informação | Mar/2024 |
+| UVA — Universidade Veiga de Almeida | Bacharelado em Ciência da Computação | Ago/2019 |
 
 ---
 
