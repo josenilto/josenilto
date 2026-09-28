@@ -19,9 +19,9 @@
 <table>
   <thead>
     <tr>
-      <th align="left" width="320">Instituição</th>
-      <th align="left" width="340">Grau</th>
-      <th align="left" width="100">Conclusão</th>
+      <th align="left" width="250">Instituição</th>
+      <th align="left" width="395">Grau</th>
+      <th align="left" width="112">Conclusão</th>
     </tr>
   </thead>
   <tbody>
@@ -235,8 +235,8 @@ Experiência complementar em administração de redes e firewall com **Webmin** 
 <table>
   <thead>
     <tr>
-      <th align="left" width="370">Cargo</th>
-      <th align="left" width="400">Empresa / Cliente</th>
+      <th align="left" width="240">Cargo</th>
+      <th align="left" width="540">Empresa / Cliente</th>
     </tr>
   </thead>
   <tbody>
