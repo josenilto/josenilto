@@ -1,4 +1,4 @@
-# Josenilto — Arquiteto Cloud & DevOps Engineer
+# Arquiteto Cloud & DevOps Engineer
 
 ## Formação Acadêmica
 
