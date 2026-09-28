@@ -315,8 +315,10 @@ Experiência complementar em administração de redes e firewall com **Webmin** 
 
 ## Contato
 
-[<img title="LinkedIn" align="left" alt="LinkedIn" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img title="WhatsApp" align="left" alt="WhatsApp" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" />][whatsapp]
+[<img title="LinkedIn" align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/linkedin.com%2Fin%2Fjosenilto-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img title="WhatsApp" align="left" alt="WhatsApp" height="25px" src="https://img.shields.io/badge/whatsapp-conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
 
 [linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
 [whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20Josenilto.
+<br><br>
