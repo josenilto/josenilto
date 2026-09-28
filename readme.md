@@ -52,7 +52,7 @@
 
 ## Sobre Mim
 
-Arquiteto Cloud & DevOps Engineer com mais de **12 anos de experiência** em Tecnologia da Informação, com histórico comprovado de liderança técnica em projetos de alta complexidade para grandes corporações nos setores de energia, financeiro, varejo e saúde.
+Arquiteto Cloud & DevOps Engineer com mais de **13 anos de experiência** em Tecnologia da Informação, com histórico comprovado de liderança técnica em projetos de alta complexidade para grandes corporações nos setores de energia, financeiro, varejo e saúde.
 
 Especialista na concepção, implantação e otimização de plataformas de infraestrutura em ambientes **híbridos e multi-cloud** (AWS, Azure, GCP, Oracle Cloud, IBM Cloud), com foco em resiliência, escalabilidade e redução de custos operacionais. Atua com profundidade em toda a cadeia de entrega de software — do provisionamento de infraestrutura como código à automação de pipelines CI/CD e governança de plataformas em produção.
 
