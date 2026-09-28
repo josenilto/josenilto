@@ -81,6 +81,7 @@ Liderança técnica na arquitetura e operação de plataformas de infraestrutura
 [<img title="IBM Cloud" align="left" alt="IBM Cloud" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ibm.svg" />][ibmcloud]
 [<img title="OpenStack" align="left" alt="OpenStack" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/openstack.svg" />][openstack]
 [<img title="VMware" align="left" alt="VMware" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vmware.svg" />][vmware]
+[<img title="Red Hat OpenShift" align="left" alt="Red Hat OpenShift" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redhatopenshift.svg" />][redhatopenshift]
 
 [amazon]: https://aws.amazon.com/pt
 [microsoftazure]: https://azure.microsoft.com/pt-br
@@ -89,6 +90,7 @@ Liderança técnica na arquitetura e operação de plataformas de infraestrutura
 [ibmcloud]: https://www.ibm.com/cloud
 [openstack]: https://www.openstack.org
 [vmware]: https://www.vmware.com
+[redhatopenshift]: https://www.redhat.com/pt-br/technologies/cloud-computing/openshift
 <br><br>
 
 ### Roadmap Estratégico de Tecnologia
@@ -128,6 +130,7 @@ Responsável pela arquitetura e operação de **pipelines CI/CD de ponta a ponta
 [<img title="GitHub" align="left" alt="GitHub" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 [<img title="Bitbucket" align="left" alt="Bitbucket" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bitbucket.svg" />][bitbucket]
 [<img title="Jenkins" align="left" alt="Jenkins" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jenkins.svg" />][jenkins]
+[<img title="GitHub Actions" align="left" alt="GitHub Actions" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/githubactions.svg" />][githubactions]
 [<img title="SonarQube" align="left" alt="SonarQube" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sonarqube.svg" />][sonarqube]
 
 [<img title="Harbor" align="left" alt="Harbor" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/harbor.svg" />][harbor]
@@ -136,6 +139,7 @@ Responsável pela arquitetura e operação de **pipelines CI/CD de ponta a ponta
 [ansible]: https://docs.ansible.com/ansible/latest/index.html
 [terraform]: https://www.terraform.io/downloads.html
 [jenkins]: https://www.jenkins.io
+[githubactions]: https://github.com/features/actions
 [github]: https://github.com
 [sonarqube]: https://www.sonarqube.org/downloads
 [puppet]: https://puppet.com/docs/puppet/7.1/release_notes_puppet.html
@@ -153,6 +157,7 @@ Visão full-stack aplicada à operação de plataformas: proficiência em lingua
 [<img title="Apache HTTP Server" align="left" alt="Apache HTTP Server" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apache.svg" />][apache]
 [<img title="Apache Hive" align="left" alt="Apache Hive" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachehive.svg" />][apachehive]
 [<img title="Nginx" align="left" alt="Nginx" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nginx.svg" />][nginx]
+[<img title="Apache Tomcat" align="left" alt="Apache Tomcat" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachetomcat.svg" />][apachetomcat]
 
 [<img title="HTML5" align="left" alt="HTML5" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />][html]
 [<img title="CSS3" align="left" alt="CSS3" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />][css]
@@ -161,10 +166,14 @@ Visão full-stack aplicada à operação de plataformas: proficiência em lingua
 [<img title="Bootstrap" align="left" alt="Bootstrap" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" />][bootstrap]
 [<img title="Python" align="left" alt="Python" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 [<img title="GNU Bash" align="left" alt="GNU Bash" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gnubash.svg" />][gnubash]
+[<img title="JavaScript" align="left" alt="JavaScript" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />][javascript]
+[<img title="Ruby" align="left" alt="Ruby" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ruby.svg" />][ruby]
+[<img title="Perl" align="left" alt="Perl" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/perl.svg" />][perl]
 
 [apache]: https://httpd.apache.org/dev/release.html
 [apachehive]: http://www.apache.org/dyn/closer.cgi/hive/
 [nginx]: https://nginx.org
+[apachetomcat]: https://tomcat.apache.org
 
 [html]: https://www.w3.org/2014/10/html5-rec.html.en
 [css]: https://www.w3.org/Style/CSS20/
@@ -173,6 +182,9 @@ Visão full-stack aplicada à operação de plataformas: proficiência em lingua
 [bootstrap]: https://getbootstrap.com/docs/versions
 [python]: https://www.python.org/downloads
 [gnubash]: https://www.gnu.org/software/bash/manual/bash.html
+[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[ruby]: https://www.ruby-lang.org/pt
+[perl]: https://www.perl.org
 <br><br>
 
 ### Plataforma de Dados
@@ -201,10 +213,18 @@ Na frente de segurança, responsável pela implementação de práticas **DevSec
 [<img title="Grafana" align="left" alt="Grafana" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/grafana.svg" />][grafana]
 [<img title="Prometheus" align="left" alt="Prometheus" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/prometheus.svg" />][prometheus]
 [<img title="Graylog" align="left" alt="Graylog" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/graylog.svg" />][graylog]
+[<img title="Elastic Stack" align="left" alt="Elastic Stack" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/elasticstack.svg" />][elasticstack]
+[<img title="Kibana" align="left" alt="Kibana" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kibana.svg" />][kibana]
+[<img title="Zabbix" align="left" alt="Zabbix" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zabbix.svg" />][zabbix]
+[<img title="New Relic" align="left" alt="New Relic" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/newrelic.svg" />][newrelic]
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
 [prometheus]: https://prometheus.io/docs/introduction/release-cycle/
 [graylog]: https://www.graylog.org
+[elasticstack]: https://www.elastic.co/elastic-stack
+[kibana]: https://www.elastic.co/kibana
+[zabbix]: https://www.zabbix.com
+[newrelic]: https://newrelic.com
 <br><br>
 
 ### Outras Tecnologias
