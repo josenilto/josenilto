@@ -16,12 +16,37 @@
 
 ## Formação Acadêmica
 
-| Instituição | Grau | Conclusão |
-| --- | --- | --- |
-| IME — Instituto Militar de Engenharia | Mestrado em Sistemas de Informação | Em andamento |
-| UNESA — Universidade Estácio de Sá | Pós-Graduação em Arquitetura e Projetos de Cloud Computing | Dez/2025 |
-| UNESA — Universidade Estácio de Sá | Bacharelado em Sistemas de Informação | Mar/2024 |
-| UVA — Universidade Veiga de Almeida | Bacharelado em Ciência da Computação | Ago/2019 |
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="250">Instituição</th>
+      <th align="left" width="395">Grau</th>
+      <th align="left" width="112">Conclusão</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IME — Instituto Militar de Engenharia</td>
+      <td>Mestrado em Sistemas de Informação</td>
+      <td>Em andamento</td>
+    </tr>
+    <tr>
+      <td>UNESA — Universidade Estácio de Sá</td>
+      <td>Pós-Graduação em Arquitetura e Projetos de Cloud Computing</td>
+      <td>Dez/2025</td>
+    </tr>
+    <tr>
+      <td>UNESA — Universidade Estácio de Sá</td>
+      <td>Bacharelado em Sistemas de Informação</td>
+      <td>Mar/2024</td>
+    </tr>
+    <tr>
+      <td>UVA — Universidade Veiga de Almeida</td>
+      <td>Bacharelado em Ciência da Computação</td>
+      <td>Ago/2019</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -207,22 +232,72 @@ Experiência complementar em administração de redes e firewall com **Webmin** 
 
 ## Experiência Profissional
 
-| Cargo | Empresa / Cliente |
-| --- | --- |
-| Especialista / Arquiteto DevOps | Grupo Profarma |
-| SRE / DevOps Engineer | TIVIT — Cliente: Petrobras |
-| DevOps Engineer | TelTec Solutions — Clientes: Grupo Madero, BRMalls, Azul e Gol Linhas Aéreas |
-| DevSecOps Engineer | Monitora — Cliente: Serasa Experian |
-| Arquiteto Cloud / DevOps Engineer | Grupo Madero |
-| Analista Cloud | Linx — Projetos Chaordic |
-| Analista de Infraestrutura | Stefanini LATAM |
-| Analista de Infraestrutura | CTCTech — Cliente: ANP (Projeto APPs) |
-| SysAdmin — On-Premises e Cloud | G&P e GlobalHitss — Cliente: Caixa Econômica Federal |
-| Analista de Implantação | Ferragens Ramada |
-| Analista de Implantação | Cam Tecnologia — Clientes: RNP, Ferragens Ramada |
-| Supervisor Operacional de TI | Universidade Veiga de Almeida |
-| Analista de redes | Universidade Veiga de Almeida |
-| Estagiário de TI | Universidade Veiga de Almeida |
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="240">Cargo</th>
+      <th align="left" width="540">Empresa / Cliente</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Especialista / Arquiteto DevOps</td>
+      <td>Grupo Profarma</td>
+    </tr>
+    <tr>
+      <td>SRE / DevOps Engineer</td>
+      <td>TIVIT — Cliente: Petrobras</td>
+    </tr>
+    <tr>
+      <td>DevOps Engineer</td>
+      <td>TelTec Solutions — Clientes: Grupo Madero, BRMalls, Azul e Gol Linhas Aéreas</td>
+    </tr>
+    <tr>
+      <td>DevSecOps Engineer</td>
+      <td>Monitora — Cliente: Serasa Experian</td>
+    </tr>
+    <tr>
+      <td>Arquiteto Cloud / DevOps Engineer</td>
+      <td>Grupo Madero</td>
+    </tr>
+    <tr>
+      <td>Analista Cloud</td>
+      <td>Linx — Projetos Chaordic</td>
+    </tr>
+    <tr>
+      <td>Analista de Infraestrutura</td>
+      <td>Stefanini LATAM</td>
+    </tr>
+    <tr>
+      <td>Analista de Infraestrutura</td>
+      <td>CTCTech — Cliente: ANP (Projeto APPs)</td>
+    </tr>
+    <tr>
+      <td>SysAdmin — On-Premises e Cloud</td>
+      <td>G&amp;P e GlobalHitss — Cliente: Caixa Econômica Federal</td>
+    </tr>
+    <tr>
+      <td>Analista de Implantação</td>
+      <td>Ferragens Ramada</td>
+    </tr>
+    <tr>
+      <td>Analista de Implantação</td>
+      <td>Cam Tecnologia — Clientes: RNP, Ferragens Ramada</td>
+    </tr>
+    <tr>
+      <td>Supervisor Operacional de TI</td>
+      <td>Universidade Veiga de Almeida</td>
+    </tr>
+    <tr>
+      <td>Analista de redes</td>
+      <td>Universidade Veiga de Almeida</td>
+    </tr>
+    <tr>
+      <td>Estagiário de TI</td>
+      <td>Universidade Veiga de Almeida</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
