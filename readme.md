@@ -52,10 +52,18 @@ Liderança técnica na arquitetura e operação de plataformas de infraestrutura
 [<img title="Amazon Web Services" align="left" alt="Amazon Web Services" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/amazonaws.svg" />][amazon]
 [<img title="Microsoft Azure" align="left" alt="Microsoft Azure" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoftazure.svg" />][microsoftazure]
 [<img title="Google Cloud Platform" align="left" alt="Google Cloud Platform" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecloud.svg" />][googlecloud]
+[<img title="Oracle Cloud" align="left" alt="Oracle Cloud" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/oracle.svg" />][oraclecloud]
+[<img title="IBM Cloud" align="left" alt="IBM Cloud" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ibm.svg" />][ibmcloud]
+[<img title="OpenStack" align="left" alt="OpenStack" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/openstack.svg" />][openstack]
+[<img title="VMware" align="left" alt="VMware" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vmware.svg" />][vmware]
 
 [amazon]: https://aws.amazon.com/pt
 [microsoftazure]: https://azure.microsoft.com/pt-br
 [googlecloud]: https://cloud.google.com
+[oraclecloud]: https://www.oracle.com/br/cloud/
+[ibmcloud]: https://www.ibm.com/cloud
+[openstack]: https://www.openstack.org
+[vmware]: https://www.vmware.com
 <br><br>
 
 ### Roadmap Estratégico de Tecnologia
