@@ -298,27 +298,3 @@ Experiência complementar em administração de redes e firewall com **Webmin** 
     </tr>
   </tbody>
 </table>
-
----
-
-## Presença Online
-
-[<img title="GitHub Pages" align="left" alt="GitHub Pages" height="25px" src="https://img.shields.io/website?label=josenilto.github.io&style=for-the-badge&url=https://josenilto.github.io" />][websitejoseniltogit]
-
-[<img title="Docker Hub" align="left" alt="Docker Hub" height="25px" src="https://img.shields.io/website?label=hub.docker.com/u/josenilto&style=for-the-badge&url=https://hub.docker.com/u/josenilto" />][websitehubdocker]
-
-[websitejoseniltogit]: https://josenilto.github.io/
-[websitehubdocker]: https://hub.docker.com/u/josenilto
-<br><br>
-
----
-
-## Contato
-
-[<img title="LinkedIn" align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/linkedin.com%2Fin%2Fjosenilto-conectar-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" />][linkedin]
-
-[<img title="WhatsApp" align="left" alt="WhatsApp" height="25px" src="https://img.shields.io/badge/whatsapp-conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
-
-[linkedin]: https://br.linkedin.com/in/josenilto?trk=profile-badge
-[whatsapp]: https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20Josenilto.
-<br><br>
