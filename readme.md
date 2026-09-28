@@ -215,7 +215,7 @@ Na frente de segurança, responsável pela implementação de práticas **DevSec
 [<img title="Graylog" align="left" alt="Graylog" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/graylog.svg" />][graylog]
 [<img title="Elastic Stack" align="left" alt="Elastic Stack" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/elasticstack.svg" />][elasticstack]
 [<img title="Kibana" align="left" alt="Kibana" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kibana.svg" />][kibana]
-[<img title="Zabbix" align="left" alt="Zabbix" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zabbix.svg" />][zabbix]
+[<img title="Zabbix" align="left" alt="Zabbix" width="25px" height="25px" src="assets/icons/zabbix.svg" />][zabbix]
 [<img title="New Relic" align="left" alt="New Relic" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/newrelic.svg" />][newrelic]
 
 [grafana]: https://grafana.com/docs/grafana/latest/release-notes/
