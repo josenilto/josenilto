@@ -1,42 +1,42 @@
-<h1 align="center">Olá, eu sou o Josenilto 👋</h1>
+<h1 align="center">Josenilto</h1>
 
 <p align="center">
   <b>Arquiteto Cloud & DevOps Engineer</b> · Rio de Janeiro, Brasil<br>
-  Gosto de transformar infraestrutura complicada em algo simples, confiável e que deixa o time dormir tranquilo.
+  Plataformas cloud confiáveis, automatizadas e alinhadas às necessidades do negócio.
 </p>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/josenilto"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-josenilto-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://josenilto.github.io/"><img alt="Site" src="https://img.shields.io/badge/Site-josenilto.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"></a>
   <a href="https://hub.docker.com/u/josenilto"><img alt="Docker Hub" src="https://img.shields.io/badge/Docker%20Hub-josenilto-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20Josenilto."><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-bora%20conversar-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20Josenilto."><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-contato-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
 
-## 🙋 Um pouco sobre mim
+## Sobre mim
 
-Comecei na TI como estagiário na Universidade Veiga de Almeida, cuidando de rede e ajudando quem precisava. De lá pra cá já se passaram **mais de 12 anos**, e o que mais me motiva continua sendo a mesma coisa: ver sistemas funcionando bem e pessoas conseguindo trabalhar sem se preocupar com a infraestrutura por trás.
+Sou Arquiteto Cloud e DevOps Engineer, com **mais de 12 anos de experiência** em Tecnologia da Informação. Iniciei minha carreira na Universidade Veiga de Almeida, atuando com redes e suporte, e desde então venho construindo uma trajetória voltada à infraestrutura, automação e confiabilidade de plataformas críticas.
 
-Hoje atuo como **Arquiteto Cloud e DevOps**, desenhando e operando plataformas em ambientes **híbridos e multi-cloud** (AWS, Azure, GCP, Oracle e IBM Cloud). Já tive a oportunidade de trabalhar em projetos de empresas como **Petrobras, Serasa Experian, Caixa Econômica Federal, Grupo Madero e Grupo Profarma**, passando por setores como energia, finanças, varejo e saúde.
+Atualmente, projeto e opero ambientes **híbridos e multi-cloud** (AWS, Azure, GCP, Oracle Cloud e IBM Cloud). Ao longo da carreira, participei de projetos para organizações como **Petrobras, Serasa Experian, Caixa Econômica Federal, Grupo Madero e Grupo Profarma**, nos setores de energia, financeiro, varejo e saúde.
 
-No dia a dia, eu:
+Meu trabalho se concentra em:
 
-- ☁️ **Migro e modernizo** plataformas críticas para a nuvem, sempre de olho em custo (FinOps) e disponibilidade;
-- 🤖 **Automatizo tudo o que dá** com Terraform, Ansible e pipelines CI/CD, porque ninguém merece repetir tarefa manual;
-- 🔭 **Cuido da observabilidade e da confiabilidade (SRE)**, com Grafana, Prometheus, Elastic e New Relic, definindo SLIs e SLOs que fazem sentido para o negócio;
-- 🔐 **Levo segurança para dentro do pipeline** com práticas DevSecOps;
-- 🤝 **Faço a ponte** entre o time técnico e as áreas de negócio, traduzindo necessidade em arquitetura.
+- **Migração e modernização** de plataformas críticas para a nuvem, com foco em disponibilidade e otimização de custos (FinOps);
+- **Automação de infraestrutura e entrega** com Terraform, Ansible e pipelines CI/CD, garantindo ambientes padronizados e reproduzíveis;
+- **Observabilidade e confiabilidade (SRE)** com Grafana, Prometheus, Elastic Stack e New Relic, com definição de SLIs e SLOs orientados ao negócio;
+- **Segurança integrada ao ciclo de entrega**, por meio de práticas DevSecOps;
+- **Alinhamento entre tecnologia e negócio**, traduzindo necessidades estratégicas em arquiteturas sustentáveis.
 
-## 🌱 No momento
+## Atualmente
 
-- 🎓 Fazendo **Mestrado em Sistemas de Informação no IME** (Instituto Militar de Engenharia)
-- 💼 Atuando como **Especialista / Arquiteto DevOps no Grupo Profarma**
-- 💬 Sempre aberto a trocar ideia sobre **cloud, Kubernetes, automação, SRE e carreira em infraestrutura**
+- **Especialista / Arquiteto DevOps** no Grupo Profarma
+- **Mestrado em Sistemas de Informação** no IME (Instituto Militar de Engenharia)
+- Aberto a trocar experiências sobre cloud, Kubernetes, automação e SRE
 
 ---
 
-## 🧰 Ferramentas que uso no dia a dia
+## Competências técnicas
 
 **Cloud e containers**
 
@@ -44,7 +44,7 @@ No dia a dia, eu:
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker" alt="AWS, Azure, GCP, Kubernetes, Docker" />
 </p>
 
-Também trabalho com Oracle Cloud, IBM Cloud, Red Hat OpenShift e nuvens privadas (OpenStack, CloudStack, VMware e Hyper-V).
+Oracle Cloud, IBM Cloud, Red Hat OpenShift e nuvens privadas (OpenStack, CloudStack, VMware e Hyper-V).
 
 **Infraestrutura como código e CI/CD**
 
@@ -52,7 +52,7 @@ Também trabalho com Oracle Cloud, IBM Cloud, Red Hat OpenShift e nuvens privada
   <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,gitlab,bitbucket,jenkins" alt="Terraform, Ansible, GitHub Actions, GitLab, Bitbucket, Jenkins" />
 </p>
 
-Além de Puppet, Vagrant, SonarQube e Harbor.
+Puppet, Vagrant, SonarQube e Harbor.
 
 **Observabilidade**
 
@@ -60,15 +60,15 @@ Além de Puppet, Vagrant, SonarQube e Harbor.
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Grafana, Prometheus" />
 </p>
 
-Junto com Elastic Stack (ELK), Kibana, Graylog, Zabbix e New Relic.
+Elastic Stack (ELK), Kibana, Graylog, Zabbix e New Relic.
 
-**Sistemas operacionais e servidores**
+**Sistemas operacionais, servidores e redes**
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,redhat,debian,ubuntu,windows,nginx" alt="Linux, Red Hat, Debian, Ubuntu, Windows, Nginx" />
 </p>
 
-Com Apache, Tomcat, JBoss, IIS, pfSense e Webmin; e uma boa base de redes (TCP/IP, WAN/LAN, VPN).
+Apache, Tomcat, JBoss, IIS, pfSense e Webmin; redes TCP/IP, WAN/LAN e VPN.
 
 **Bancos de dados**
 
@@ -76,21 +76,19 @@ Com Apache, Tomcat, JBoss, IIS, pfSense e Webmin; e uma boa base de redes (TCP/I
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL, MongoDB" />
 </p>
 
-E também SQL Server e Oracle Database.
+SQL Server e Oracle Database.
 
-**Scripts e desenvolvimento**
+**Automação e desenvolvimento**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,php,java,js,laravel,wordpress" alt="Python, Bash, PHP, Java, JavaScript, Laravel, WordPress" />
 </p>
 
-Um pouco de Ruby, Perl, CodeIgniter e Drupal também já passaram por aqui.
+Ruby, Perl, CodeIgniter e Drupal.
 
 ---
 
-## 🛤️ Minha trajetória
-
-Cada lugar me ensinou alguma coisa, e essa soma é o que eu levo para os projetos de hoje.
+## Experiência profissional
 
 | Cargo | Empresa / Cliente |
 | --- | --- |
@@ -109,7 +107,7 @@ Cada lugar me ensinou alguma coisa, e essa soma é o que eu levo para os projeto
 | Analista de Redes | Universidade Veiga de Almeida |
 | Estagiário de TI | Universidade Veiga de Almeida |
 
-## 🎓 Formação
+## Formação acadêmica
 
 | Instituição | Curso | Conclusão |
 | --- | --- | --- |
@@ -120,12 +118,10 @@ Cada lugar me ensinou alguma coisa, e essa soma é o que eu levo para os projeto
 
 ---
 
-## 📫 Vamos conversar?
+## Contato
 
-Se você está enfrentando um desafio de cloud, quer trocar experiências sobre DevOps ou só bater um papo sobre tecnologia, me chama! 🙂
+Estou disponível para conversar sobre projetos de cloud, DevOps e infraestrutura, além de oportunidades profissionais.
 
-- 💼 [LinkedIn](https://br.linkedin.com/in/josenilto)
-- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20Josenilto.)
-- 🌐 [josenilto.github.io](https://josenilto.github.io/)
-
-<p align="center"><i>Obrigado pela visita e até a próxima! ✌️</i></p>
+- [LinkedIn](https://br.linkedin.com/in/josenilto)
+- [WhatsApp](https://api.whatsapp.com/send?phone=5521981918601&text=Ol%C3%A1%2C%20gostaria%20de%20entrar%20em%20contato%20com%20Josenilto.)
+- [josenilto.github.io](https://josenilto.github.io/)
